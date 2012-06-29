@@ -1,0 +1,2175 @@
+ Smith, M    21.3    Hinsdale, IL 
+ Smith, Mabel    Not Active    McHenry, IL 
+ Smith, Mac D    Not Active    Rockford, IL 
+ Smith, Madison    Not Active     
+ Smith, Maggie   21.5    Dyer, IN 
+ Smith, Marc   9.3     Park Ridge, IL 
+ Smith, Marc   N/H     Byron, IL 
+ Smith, Marc   Not Active    Byron, IL 
+ Smith, Marcia   N/H     Geneva, IL 
+ Smith, Marcus   N/H     Rockford, IL 
+ Smith, Margot   29.6    Highland Park, IL 
+ Smith, Marie    22.8    Woodstock, IL 
+ Smith, Marie    Not Active    Saint John, IN 
+ Smith, Marietta   Not Active    Mount Prospect, IL 
+ Smith, Mark   N/H      
+ Smith, Mark A   Not Active    Plainfield, IL 
+ Smith, Mark W   12.1    Peoria, IL 
+ Smith, Mark   25.2    Park Ridge, IL 
+ Smith, Mark   Not Active    Kankakee, IL 
+ Smith, Mark   19.1     
+ Smith, Mark   Not Active    Sugar Grove, IL 
+ Smith, Mark   Not Active    bloomingdale, IL 
+ Smith, Mark   Not Active     
+ Smith, Mark   N/H      
+ Smith, Mark Allen   Not Active    Chicago, IL 
+ Smith, Marlene    Not Active    Frankfort, Il 
+ Smith, Martha   Not Active     
+ Smith, Martha   20.2    Morris, IL 
+ Smith, Martin   19    Champaign, IL 
+ Smith, Marty    Not Active     
+ Smith III, Marty    Not Active    Gurnee, IL 
+ SMITH, Mary   N/H      
+ SMITH, Mary   N/H      
+ Smith, Mary   13.2    St. Charles, IL 
+ Smithe, Mary    31.6    Barrington, IL 
+ Smith, Mary   N/H     St. Charles, IL 
+ Smith, Mary Beth    48.5    Northbrook, IL 
+ Smith, Mary Lou   26.4    Springfield, IL 
+ Smith, Mary Rose    22.1    River Forest, IL 
+ Smith, Matt   Not Active    Jacksonville, IL 
+ Smith, Matt D   Not Active    Washington, IL 
+ Smith, Matt   Not Active    Decatur, IL 
+ Smith, Matt   Not Active    Dunlap, IL 
+ Smith, Matt   21.3    Dunlap, IL 
+ Smith, Matt   Not Active    Chicago, IL 
+ Smith, Matthew F    9.9     Wilmette, IL 
+ Smith, Matthew B    19.3    Downers Grove, IL 
+ Smith, Matthew    13.3    Northbrook, IL 
+ Smith, Matthew    Not Active    Naperville, IL 
+ Smith, Matthew    Not Active    METTAWA, IL 
+ Smith, Matthew R    1.4     Naperville, IL 
+ Smith, Matthew    15.8    BARRINGTON, IL 
+ Smith, Melanie    31.3    Wilmette, IL 
+ Smith, Melinda    N/H     Stanford, IL 
+ Smith, Merle    Not Active    Lanark, IL 
+ Smith, Merrill    N/H     Chicago, IL 
+ SMITH, MERWYN   Not Active     
+ Smith, Michael    N/H     Riverside, IL 
+ Smith, Michael    N/H     Arlington Heights, IL 
+ Smith, Michael M.   N/H     Naperville, IL 
+ Smith, Michael J.   Not Active    Loves Park, IL 
+ Smith, Michael K    12    Lakewood, IL 
+ Smith, Michael    Not Active    Springfield, IL 
+ Smith, Michael    Not Active    Machesney Park, IL 
+ Smith, Michael    Not Active    Cary, IL 
+ Smith, Michael w    5.8     Charleston, IL 
+ Smith, Michael    Not Active    Wilmette, IL 
+ Smith, Michael D    8.5     Byron, IL 
+ Smith, Michael    3.9     Lombard, IL 
+ Smith, Michael    Not Active    Orland Hills, IL 
+ Smith, Michael    Not Active    Sugar Grove, IL 
+ Smith, Michael S.   11.3    Charleston, IL 
+ Smith, Michael    5.5     Glen Ellyn, IL 
+ Smith, Michael J    14    Champaign, IL 
+ Smith, Michael    N/H      
+ Smith, Michael V.   Not Active    Arlington Heights, IL 
+ Smith, Michael N    8.5     Tuscola, IL 
+ Smith, Michael D.   13.6    Chicago, IL 
+ Smith, Michael    14.9    Barrington, IL 
+ Smith, Michael R.   8.8     Joliet, IL 
+ Smith, Michael D    Not Active    Chicago , IL 
+ Smith, Michael    N/H     Riverside, IL 
+ Smith, Michael J    15.5    Downers Grove, IL 
+ Smith, Michele    N/H     champaign, IL 
+ smith, michelle   N/H     riverwoods, il 
+ Smith, Michelle L   Not Active    Algonquin, IL 
+ Smith, Mike J.    Not Active    Caledonia, IL 
+ Smith, Mike   15.4    Park Ridge, IL 
+ Smith, Mike   Not Active    Maple Plain, MN 
+ Smith, Mike   Not Active     
+ Smith, Mike   Not Active     
+ Smith, Mike   Not Active    Antioch, IL 
+ Smith, Mike   N/H     Silvis, IL 
+ Smith, Mike   Not Active    Essex, IL 
+ Smith, Mike   Not Active    Dallas, TX 
+ Smith, Mike   Not Active     
+ Smith, Mike   11.8    Sugar Grove, IL 
+ Smith, Mike   18.4    Palos Hills, IL 
+ Smith, Mike   Not Active    Normal, IL 
+ Smith, Mike   26.3     
+ Smith, Mike   25.5    Springfield, IL 
+ Smith, Mike   17.4    Grayslake, IL 
+ Smith, Milton   N/H     Olympia Fields, IL 
+ Smith, Morris   Not Active    Beecher City, IL 
+ Smith, Murray   22.9    PLAINFIELD, IL
+Smith, Ralph   23.9    Crystal Lake, IL 
+ Smith, Ralph    Not Active    Rolling Meadows, IL 
+ Smith, Randle   N/H     Munster, IN 
+ Smith, Randy    12.7    DeKalb, IL 
+ Smith, Randy    Not Active    Thomson, IL 
+ Smith, Randy    Not Active    HOBART, IN 
+ Smith, Ray    Not Active    Rantoul, IL 
+ Smith, Ray    Not Active    Joliet, IL 
+ Smith, Rebecca A    10    River Grove, IL 
+ Smith, Rees   Not Active    Hoffman Estates, IL 
+ smith, reggie   22.4    geneva, IL 
+ Smith, Rich   13.2    DECATUR, IL 
+ SMITH, Rich   Not Active    Yorkville, IL 
+ Smith, Richard    Not Active    Inverness, IL 
+ Smith, Richard    Not Active    Crown Point, IN 
+ Smith, Richard    Not Active    Barrington, IL 
+ Smith, Richard    Not Active    Flossmoor, IL 
+ Smith, Richard D.   N/H     Salem, IL 
+ Smith, Richard A    23.1    St Charles, IL 
+ Smith, Richard    Not Active    Effingham, IL 
+ Smith, Richard    12.9    River Forest, IL 
+ Smith, Rick   Not Active    glenview, IL 
+ Smith, Rick   6.9     Crystal Lake, IL 
+ Smith, Rick   9.1     Highland Park, IL 
+ Smith, Rick   15.2    Ivanhoe, IL 
+ Smith, Rick   26.6    Burr Ridge, IL 
+ Smith, Rick   4.6     Chicago, IL 
+ Smith, Rick   Not Active    CHICAGO, IL 
+ SMITH, RICK   Not Active    GLENVIEW, IL 
+ Smith, Rick   Not Active     
+ Smith, Rick   15    Frankfort, IL 
+ Smith, Rick   Not Active    Algonquin, IL 
+ Smith, Rick   N/H      
+ Smith, Rickey L   24.2    Evanston, IL 
+ Smith, Rita   Not Active    Washington, IL 
+ Smith, Rob    N/H     Evergreen Park, IL 
+ Smith, Robb   Not Active    Dekalb, IL 
+ Smith, Robert   12     
+ Smith, Robert   Not Active    Chicago, IL 
+ Smith, Robert   Not Active    Plainfield, IL 
+ Smith, Robert   7.2     Park Ridge, IL 
+ Smith, Robert A   Not Active    Bourbonnais, IL 
+ Smith, Robert P   Not Active    Elmhurst, IL 
+ Smith, Robert   Not Active    Oak Lawn, IL 
+ Smith, Robert   N/H     Crown Point, IN 
+ Smith, Robert L   Not Active    Chicago, IL 
+ Smith, Robert L   Not Active    Marengo, IL 
+ Smith, Robert L.    Not Active    University Park, IL 
+ Smith, Robert   10    Decatur, IL 
+ Smith, Robert   8.6     Champaign, IL 
+ Smith, Robert   Not Active    St Charles, IL 
+ Smith, Robert   Not Active    Elgin, IL 
+ Smith, Robert   Not Active    Decatur, IL 
+ Smith, Robert   Not Active    Valparaiso, IN 
+ Smith, Robert L.    N/H      
+ Smith, Robert   N/H     Crown Point, IN 
+ Smith, Robert C   15.3    Westmont, IL 
+ Smith, Robert A   26.7    Ingleside, IL 
+ Smith, II, Robin    Not Active    Waukegan, IL 
+ Smith, Rod    Not Active    Kewanee, IL 
+ Smith Jr, Rod D   0     Dunlap, IL 
+ Smith, Rodger   Not Active    Virden, IL 
+ Smith, Rodney   11.3    Mattoon, IL 
+ Smith, Roger    Not Active    Chillicothe, IL 
+ Smith, Roger    Not Active    Homer Glen, IL 
+ Smith, Roger    Not Active    Prospect, KY 
+ Smith, Roger K    12.4    Wilmette, Il 
+ Smith, Roger    16.1    Normal, IL 
+ Smith, Ron    Not Active    Lakemoor, IL 
+ Smith, Ron    Not Active    Glenview, IL 
+ Smith, Ron    N/H      
+ SMITH, RON    N/H      
+ Smith, Ron    18.1    Sugar Grove, IL 
+ Smith, Ron    Not Active    Harvard, IL 
+ Smith, Ron    N/H     Princeton, IL 
+ Smith, Ron    12.9    Springfield, IL 
+ Smith, Ron    16.8    Buffalo Grove, IL 
+ Smith, Ron    15.5    Bourbonnais, IL 
+ Smith, Ron    20.9    Joliet, IL 
+ Smith, Ron    14.7    Bloomington, IL 
+ Smith, Ron    13.6    Springfield, IL 
+ SMITH, RON    Not Active     
+ Smith, Ronald J   12    Lake Barrington, IL 
+ Smith, Ronald M   Not Active    Louisville, KY 
+ Smith, Ronald   Not Active    Riverside, IL 
+ Smith, Ronald   15    Arcola, IL 
+ Smith, Ronald M.    27.1    Glen Ellyn, IL 
+ Smith, Ronald   Not Active    Glenview, IL 
+ Smith, Ronald W   25.5    Paris, IL 
+ Smith, Rory   Not Active    Flossmoor, IL 
+ Smith, Rose   33.5    Manteno, IL 
+ Smith, Ross B   12.1    Chicago, IL 
+ Smith, Ruddy    27.9    Lake Forest, IL 
+ Smith, Russ   Not Active    Downers Grove, IL 
+ Smith, Russ   17.6    Chillicothe, IL 
+ Smith, Russell    Not Active    Barrington, IL 
+ SMITH, Russell    24.1    Hinckley, IL 
+ SMITH, RUTH   Not Active     
+ Smith, Ruth   47.6     
+ Smith, Ruth   N/H     Indian Head Park, IL 
+ Smith, Ruth   Not Active    LaGrange, IL 
+ Smith, Ruth   27.6    St Charles, IL 
+ Smith, Ruth Ann   25.7    Oak Brook, IL 
+ Smith, Rutledge   4.3      
+ Smith, Rw   34.9    Decatur, IL 
+ Smith, Ryan   N/H     Roselle, IL 
+ Smith, Ryan   Not Active    plano, IL 
+ Smithson, Ryan    Not Active     
+ Smith, Ryan   Not Active     
+ Smith, Ryan C   Not Active    Elgin, IL 
+ Smith, Ryan G   25.6    Sycamore, IL 
+ Smith, Sally    34.9    Oswego, IL 
+ Smith, Sally    N/H     Highwood, IL 
+ Smith, Sam    12.4    Geneva, IL 
+ Smith, Sam    N/H      
+ Smith, Samantha   Not Active    Glenview, IL 
+ smith, samantha   N/H     Chicago, IL 
+ Smith, Samuel   Not Active    Wheaton, IL 
+ Smith, Sandy    21.3     
+ Smith, Sandy    Not Active     
+ Smith, Sandy    36.5    Gurnee, IL 
+ Smith, Sarah    Not Active    Western Springs, IL 
+ Smith, Sawyer   15.4    Barrington, IL 
+ Smith, Scott H    10.4    Highland Park, IL 
+ Smith, Scott    11    South Elgin, IL 
+ Smith, Scott L    18.3    Algonquin, IL 
+ Smith, Scott    Not Active    Northbrook, IL 
+ Smith, Scott L    5     Crystal Lake, IL 
+ Smith, Scott    14    Winnetka, IL 
+ Smith, Scott    Not Active    Highland Park, IL 
+ Smith, Scott    Not Active    CHICAGO, IL 
+ Smith, Scott    3.2     Geneva, IL 
+ Smith, Scott    Not Active    Crown Point, IN 
+ Smith, Scott    Not Active     
+ Smith, Scott M.   6.5     Northbrook, IL 
+ Smith, Scott H    Not Active    Buffalo Grove, IL 
+ Smith, Scott    N/H     Downers Grove, IL 
+ Smith, Scott    13.1    Glenview, IL 
+ Smith, Scott    N/H     Geneva, IL 
+ Smith, Shane    Not Active    Mattoon, IL 
+ Smith, Shane m    N/H     Godfrey, IL 
+ Smith, Shannon    Not Active    South Elgin, IL 
+ Smith, Shannon    11.9    Oak Park, IL 
+ Smith, Shannon    17.2    Oak Brook, IL 
+ Smith, Shannon    +0.1     
+ Smith, Sharon   32.8    Northbrook, IL 
+ Smith, Sharon   Not Active    St. Charles, IL 
+ Smith, Sheryl   Not Active    Glenview, IL 
+ Smith, Stacey   33.6    Arlington Heights, IL 
+ Smith, Stacey   N/H     Arlington Heights, IL 
+ Smith, Stacia A   N/H     Inverness, IL 
+ Smith, Stacy    N/H     watseka, IL 
+ Smith, Stacy    23.8    Kenilworth, IL 
+ Smith, Stan   15.3    Shorewood, IL 
+ Smith, Stephen B    16.8    Barrington, IL 
+ Smith, Stephen    16.9    Winnetka, IL 
+ Smith, Stephen    3.2     Chicago, IL 
+ Smith, Stephen    Not Active    Wheaton, IL 
+ Smith, Steve    Not Active    Barrington, IL 
+ Smith, Steve    Not Active    Barrington, IL 
+ Smith, Steve    Not Active     
+ Smith, Steve    Not Active    Champaign, IL 
+ Smith, Steve    Not Active    Freeport, IL 
+ Smith, Steve    Not Active    hinsdale, IL 
+ Smith, Steve    Not Active    New Lenox, IL 
+ Smith, Steve    Not Active    Peoria, IL 
+ Smith, Steve    Not Active    Chicago, IL 
+ Smith, Steve    9.2     Crown Point, IN 
+ Smitherman, Steve   Not Active    Wheaton, IL 
+ Smith, Steve    Not Active    Flossmoor, IL 
+ Smith, Steve    Not Active    Morrison, IL 
+ Smith, Steve    8.8     Aurora, IL 
+ Smith, Steve    Not Active    Bloomington, IL 
+ Smith, Steve    4     CANTON, IL 
+ Smith, Steve m    9.8     Peoria, IL 
+ Smith, Steve    26.2    BOURBONNAIS, IL 
+ Smith, Steven W.    12.8    Saint Charles, IL 
+ Smith, Steven   Not Active    Homewood, IL 
+ Smith, Steven   12.2    south elgin, IL 
+ Smith, Stuart   12    Highland Park, IL 
+ Smith, Sue    26.3     
+ Smith, Sue    Not Active    Glen Ellyn, IL 
+ Smith, Sue    Not Active    STILLMAN VALLEY, IL 
+ Smith, Sunny    15.5    Inverness, IL 
+ Smith, Susan    Not Active    North Aurora, IL 
+ Smith, Susan    29.5    Indian Head Park, IL 
+ Smith, Susan M    Not Active    St Anne, Il 
+ Smith, Susan    Not Active    Bourbonnais, IL 
+ Smith, Susan T    32.9    Naperville, IL 
+Smith, T J   19.8    Homer Glen, IL 
+ Smith, T J    14.1    Hinsdale, IL 
+ Smith, T.J.   Not Active    Jacksonville, IL 
+ Smith, T.j.   12.5    Mchenry, IL 
+ Smith, Taylor   N/H     Gurnee, IL 
+ Smith, Ted    N/H     Decatur, IL 
+ Smith, Tempel   16.8    WADSWORTH, IL 
+ Smith, Terence P.   Not Active    Flossmoor, IL 
+ Smith, Terry    Not Active    Chicago, IL 
+ Smith, Terry    N/H     Shorewood, IL 
+ SMITH, TERRY    22.9    Naperville, IL 
+ Smith, Terry    N/H     Munster, IN 
+ Smith, Terry    9.9     Savannah, GA 
+ Smith, Terry    14.7    Deer Park, IL 
+ Smith, Tess   Not Active    Chicago, IL 
+ Smith, Thomas   Not Active    Elmhurst, IL 
+ Smith, Thomas   N/H      
+ Smith, Thomas D   10.9    Hinsdale, IL 
+ Smith, Thomas   7.7     Hinsdale, IL 
+ Smith, Thomas   3.4     Chicago, IL 
+ Smith, Thomas   Not Active    Fort Worth, TX 
+ Smith, Thomas   Not Active    Winfield, IL 
+ Smith, Thomas E   Not Active    Glenview, IL 
+ Smith, Thomas V   10.3    Winnetka, IL 
+ Smith, Thomas   Not Active    Munster, IN 
+ Smith, Thurman    Not Active     
+ Smith, Tim    7.7     Bartlett, IL 
+ Smith, Tim    Not Active    Decatur, IL 
+ Smith, Tim    N/H     Deerfield, IL 
+ Smith, Tim    Not Active    Chillicothe, IL 
+ Smith, Tim    Not Active    Dunlap, IL 
+ Smith, Tim    5.6     Tinley Park, IL 
+ Smith, Timothy P.   21.7    Mt Prospect, IL 
+ Smith, Timothy E    Not Active    Lemont, IL 
+ Smith, Timothy    Not Active    Algonquin, IL 
+ Smith, Timothy J    24.2    Naperville, IL 
+ SMITH, TODD   Not Active     
+ Smith, Todd   N/H     Chicago, IL 
+ Smith, Todd   Not Active    Darien, IL 
+ Smith, Tom    Not Active    Glen Ellyn, IL 
+ Smith, II, Tom J.   Not Active    Glen Ellyn, IL 
+ Smith, Tom    13.1    Decatur, IL 
+ Smith, Tom L.   Not Active    Park Ridge, IL 
+ Smith, Tom    Not Active    Decatur, IL 
+ Smithburg, Tom    10.2    Chicago, IL 
+ Smith, Tom    Not Active    Danville, IL 
+ Smith, Tom    Not Active    Urbana, IL 
+ Smith, Tom    Not Active    Crystal Lake, IL 
+ Smith, Tom    N/H     Chicago, IL 
+ Smith, Tom    N/H     Tinley Park, IL 
+ Smith, Tom    27.9    Rochelle, IL 
+ Smith, Tony   29.4    BRADLEY, IL 
+ Smith, Tony   16.2    Rockford, IL 
+ Smith, Travis   Not Active    Murphysboro, IL 
+ Smith, Trent    N/H      
+ Smith, Trevor   Not Active    Rockford, IL 
+ Smith, Trey   N/H     Bloomington, IL 
+ Smith, Troy S   26.2    Blue Grass, IA 
+ Smith, Troy   Not Active    Buffalo Grove, IL 
+ Smith, Tyler    Not Active     
+ Smith, B.J.   6.6     Stanford, IL 
+ Smith, Barb   Not Active    North Barrington, IL 
+ Smith, Barb   16.1    Homewood, IL 
+ Smith, Barb   31.8    Crown Point, IN 
+ Smith, Barbara    Not Active    WINNETKA, IL 
+ Smith, Barbara L    60.9    Aurora, IL 
+ Smith, Barbara    Not Active    Barrington, IL 
+ Smith, Barbara    18.8     
+ Smith, Bart   12.3    River Grove, IL 
+ Smith, Bart   N/H     Elmwood Park, IL 
+ Smith, Beatrice   8.9     Lake Forest, IL 
+ Smith, Becky    Not Active    Rockford, IL 
+ Smith, Becky    Not Active    Rockford, IL 
+ Smith, Ben    N/H     Chicago, IL 
+ Smith, Ben    Not Active    Huntington Woods, MI 
+ Smith, Benjamin D   Not Active    Yorkville, IL 
+ Smith, Benjamin   Not Active    Normal, IL 
+ Smith, Bernie   Not Active    Antioch, IL 
+ Smith, Bernie   Not Active    marseilles, IL 
+ Smith, Beth   29.9    Bloomington, IL 
+ Smith, Betty    30.6    McHenry, IL 
+ Smith, Beverly L    Not Active    St Charles , IL 
+ Smith, Bill   Not Active    Bonita Springs, FL 
+ Smith, Bill   7.6     Darien, IL 
+ Smith, Bill   Not Active    Mokena, IL 
+ Smith, Bill   Not Active    Elburn, IL 
+ Smith, Bill   Not Active    Punta Gorda, FL 
+ Smith, Bill   Not Active    Plainfield, IL 
+ Smith, Bill   Not Active    Bolingbrook, IL 
+ Smith, Bill   Not Active    Camarillo, CA 
+ Smith, Bill   Not Active    Wheaton, IL 
+ Smith, Bill   9.4     Bolingbrook, IL 
+ Smith, Bill   16.2    Chicago, IL 
+ Smith, Bill   Not Active    Springfield, IL 
+ Smith, Bill   Not Active    DeKalb, Il 
+ Smith , Bill    N/H     Kankakee, IL 
+ Smith, Bill   Not Active    Buffalo Grove, IL 
+ Smith, Billy    Not Active    Chicago, IL 
+ Smith, Bo   Not Active    Belvidere, IL 
+ Smith, Bob    19.1    Homer Glen, IL 
+ Smith, Bob    Not Active    Villa Park, IL 
+ Smith, Bob    12.1    Ottawa, IL 
+ Smith, Bob    Not Active    Elgin, IL 
+ Smith, Bob    9     Carterville, IL 
+ Smith, Bob    8.8     Springfield, IL 
+ Smith, Bob L    Not Active    Spring Grove, IL 
+ Smith, Bob    Not Active    Orland Park, IL 
+ Smith, Bob    N/H      
+ Smith, Bob    N/H      
+ Smith, Brad   28.6    North Barrington, IL 
+ Smith, Brad   Not Active    McHenry, Il 
+ Smith, Brad   Not Active    Gurnee, IL 
+ Smith, Brad   3.8     Homewood, IL 
+ Smith, Braden E   Not Active    Downers Grove, IL 
+ Smith, Braden   9.1     Ivanhoe, IL 
+ Smith, Brandie    Not Active    Vail, AZ 
+ Smith, Brandon    Not Active    Aurora, IL 
+ Smith, Brandon    Not Active    Joliet, IL 
+ Smith, Brendan    18.3     
+ Smith, Brennan    13.4    Golf, IL 
+ Smith, Brennan    14.6    Winnetka, IL 
+ Smith, Brennan    N/H     Winnetka, il 
+ Smith, Brent    Not Active    Lena, IL 
+ Smith, Brett    Not Active    Chicago, IL 
+ Smith, Brett    2.8     Mt. Carmel, IL 
+ Smith, Brian T    13.1    Hinsdale, IL 
+ Smith, Brian    Not Active    Milwaukee, WI 
+ Smith, Brian    Not Active    Bolingbrook, IL 
+ Smith, Brian    N/H     Chicago, IL 
+ Smith, Brian    20.6    Long Grove, IL 
+ Smith, Brian    N/H     Palatine, IL 
+ Smith, Brian    Not Active    Byron, IL 
+ Smith, Brian    Not Active    Village of Lakewood, IL 
+ Smith, Brian    11.3    Naperville, IL 
+ Smith, Brian    15.4    Burr Ridge, IL 
+ Smith, Brian J    14.6    Oak Brook, IL 
+ Smith, Brian    7.4     Glencoe, IL 
+ Smith, Brian H    33.3    Big Rock, IL 
+ Smith, Brittany   20.5    Naperville, IL 
+ Smith, Bruce R.   14.6    Lake in the Hills, IL 
+ Smith, Bruce    7     Glenview, IL 
+ Smith, Bud    Not Active    Danville, IL 
+ Smith, Aaron    10.7    Charleston, IL 
+ Smith, Aaron    Not Active    St. Anne, IL 
+ Smith, Abbott   8.9     Kenilworth, IL 
+ Smith, Adam C   Not Active    Wheaton, IL 
+ Smith, Adelbert   Not Active    Homewood, IL 
+ Smith, Adrian   N/H      
+ Smith, Aidan J    21.5    Hinsdale, IL 
+ Smith, Al   Not Active    Wauconda, IL 
+ Smith, Alan   N/H     Sandwich, IL 
+ Smith, Alan R   9.6     Sandwich, IL 
+ Smith, Albert E   26.5    Winnetka, IL 
+ Smith, Alex C   8     Riverside, IL 
+ SMITH, ALEX   Not Active     
+ Smith, Alfonso    N/H     Dolton, IL 
+ Smith, Alfred   N/H      
+ Smith, Alice    25.4    GLENVIEW, IL 
+ Smith , Alice   N/H     Winnetka , IL 
+ Smith, Alison   13.5    Elgin, IL 
+ Smith, Allan    N/H      
+ SMITH, ALLAN    Not Active    Chicago, IL 
+ Smith, Allan    Not Active    Bourbonnais, IL 
+ Smith, Allen    10.8    Hinsdale, IL 
+ Smith, Jr, Allen    11.6    Chicago, IL 
+ Smith, Allen    Not Active     
+ Smith, Amy    N/H      
+ Smith Jiles, Andrea   N/H     Flossmoor, IL 
+ Smith-Jiles , Andrea    Not Active    Flossmoor, IL 
+ Smith, andrew M   Not Active    bourbonnais, IL 
+ Smith, Andrew   Not Active    Lansing, IL 
+ Smith, Andrew   Not Active    Chicago, IL 
+ Smith, Andrew   Not Active    Chicago, IL 
+ Smith, Andrew   N/H     Gurnee, IL 
+ Smith, Andy   Not Active     
+ Smith, Angela   24.2    Barrington Hills, IL 
+ Smith, Ann    N/H     Hinsdale, IL 
+ Smith, Ann    Not Active    Antioch, IL 
+ Smith, Anna   42.2    Peoria, IL 
+ Smith, Anne   Not Active    Arlington Heights, IL 
+ Smith, Anne   Not Active     
+ SMITH, Anne   Not Active    YORKVILLE, IL 
+ Smith, Anne   N/H      
+ SMITHERMAN, ANNE    Not Active    Wheaton, IL 
+ Smith, Art    Not Active    Woodridge, IL 
+ Smith, Arthur   15.1    Rockford, IL 
+ Smith, Ashley   Not Active    Johnsburg, IL 
+ Smith, Ashley   16.3    Frankfort , IL 
+ Smith, Ashton   N/H     Downers Grove, IL 
+ Smith, Audrey   Not Active    RICHTON PARK, IL 
+ SMITH, AUSTIN   N/H      
+ Smith, C J.   Not Active    Hammond, IN 
+ SMITH, C.J.   17.9    Effingham, IL 
+ Smith, C.W.   Not Active    St. Anne, IL 
+ Smith, Callaway   13.4    Effingham, IL 
+ Smith, Cam    Not Active    Elk Grove Village, IL 
+ Smith, Carl W   Not Active    Mchenry, IL 
+ SMITH, CARL   Not Active    lENA, IL 
+ Smith, Carl L   13.6    Decatur, IL 
+ Smith, Carl   Not Active    Champaign, IL 
+ Smith, Carl   18.8    NORTH BARRINGTON, IL 
+ Smith, Carol    40.2    Hinsdale, IL 
+ Smith, Carole   30.4    Winnetka, IL 
+ Smith, Carolyn    Not Active    Lincoln, IL 
+ Smith, Carter   12.2     
+ Smithson, Cathy   Not Active    Galesburg, IL 
+ Smith, Cathy    N/H     LaGrange, IL 
+ Smith, Cecile   Not Active    Galesburg, IL 
+ Smith, Chad   N/H     Glencoe, IL 
+ Smith, Char   Not Active    Decatur, IL 
+ Smith, Charles    9.1     WILMETTE, IL 
+ Smith, Charles    13    Jacksonville, IL 
+ Smith, Charles    Not Active     
+ Smith, Charles    Not Active    Merrillville, IN 
+ Smith, Charles H.   19.5    Savoy, IL 
+ Smith, Chase    +2.8    Centralia, IL 
+ Smith, Cheri    54.2     
+ Smith, Chip   N/H     CHICAGO, IL 
+ Smith, Cholly   Not Active    Northfield, IL 
+ Smith, Chris    Not Active    Village Of Lakewood, IL 
+ Smith, Chris S    Not Active    McHenry, IL 
+ Smith, Chris    17.5    Chicago, IL 
+ Smith, Chris    N/H     Western Springs, IL 
+ Smith, Chris    N/H      
+ Smith, Chris    N/H     ivanhoe, il 
+ Smith, Chris    15    Pleasant Prairie, WI 
+ Smith, Chris    Not Active    McHenry, IL 
+ Smith, Chris    Not Active    Wilmette, IL 
+ Smith, Chris    Not Active    St. Charles, IL 
+ Smith, Chris    26.2    Peoria, IL 
+ Smith, Christina    Not Active    St.Charles, IL 
+ Smith, Christopher    Not Active    St. Charles, IL 
+ Smith, Chuck    18.9    Decatur, IL 
+ Smith, Chuck    10.2    Aurora, IL 
+ Smith, Chuck    18.3    Bloomington, IL 
+ Smithwick, Cindy    Not Active    Joliet, IL 
+ Smith, Clark G    Not Active    Plainfield, IL 
+ Smith, Claudia    N/H     Freeport, IL 
+ Smith, Cliff    15.7    Bourbonnais, IL 
+ Smith, Cliff    8     Pontiac, IL 
+ Smith, Cliff    Not Active    Caledonia, IL 
+ Smith, Cody   N/H      
+ Smith, Cody A   2.3     Oregon, IL 
+ Smith, Colin    6.3     Western Springs, IL 
+ Smith, Connor   N/H     LaGrange, IL 
+ Smith, Cornelius K    9.2     Naperville, IL 
+ Smith, Courtney   11.5    Chicago, IL 
+ Smith, Coya   N/H     Itasca, IL 
+ Smith, Craig    N/H     Paris, IL 
+ Smith, Craig    Not Active    Paris, IL 
+ Smith, Craig    10.4    paris, IL 
+ Smith, Craig    28.4    Clarendon Hills, IL 
+ Smith, Craig    Not Active    Glen Ellyn, IL 
+ Smith, Craig    12    Wonder Lake, IL 
+ Smith, Craig R.   6.3     Springfield, IL 
+ Smith, Craig    17.2    Inverness, IL 
+ Smith, Craig    13.5    Long Grove, IL 
+ Smith, Craig    Not Active    Williamsville, IL 
+ Smithson, Craig   8.9     Chicago, IL 
+ Smith, Curt   16.8    Sheffield, IL 
+ Smith, Curtis   9.9      
+ Smith, Curtis   5.9     Benton, IL 
+ Smith, Curtis   10.5    WINNETKA, IL 
+ Smith, Cyndi    N/H     Decatur, IL 
+Smith, D.r.    13.5     
+ Smith, Daisy    32.1    NAPLES, FL 
+ Smith, Dale   21.5    Chicago, IL 
+ Smith, Dan    6.9     Algonquin, IL 
+ Smith, Dan    N/H     Marengo, IL 
+ SMITH, DAN    N/H     JOLIET, IL 
+ Smith, Dan    Not Active    Frankfort, IL 
+ Smith, Dan    18.5    Aurora, IL 
+ Smith, Dan    Not Active    Canton, IL 
+ Smith, Dan    3.7      
+ Smith, Dan    Not Active    Elgin, IL 
+ Smith, Dan    N/H      
+ Smith, Daniel   Not Active     
+ Smith, Daniel   N/H     Peru, IL 
+ Smith, Daniel S.    10.4    Addison, IL 
+ Smith, Daniel   N/H     Addison, IL 
+ Smith, Daniel N   Not Active    Lake Forest, IL 
+ Smith, Daniel J   14.8    frankfort, IL 
+ Smith, Danielle   20.8    Hinsdale, IL 
+ Smith, Danielle   18.5     
+ Smith, Darren r   9.9     Winthrop Harbor, IL 
+ Smith, Darren   14    chicago, IL 
+ Smith, Darryl   Not Active    Huntley, IL 
+ Smith, Darryl   N/H     Chicago, IL 
+ Smith, Dave   Not Active    Crystal Lake, IL 
+ Smith, Dave   Not Active    Wadsworth, IL 
+ Smith, Dave   Not Active    Manhattan, IL 
+ Smith, Dave   11.7    Matteson, IL 
+ Smith, Dave   2.2      
+ Smith, Dave   Not Active    Decatur, IL 
+ Smith, Dave   18    Morris, IL 
+ Smith, Dave   Not Active    Orland Park, IL 
+ Smith, David M    Not Active    Vernon Hills, IL 
+ Smith, David S    7.9     Kenilworth, IL 
+ Smith, David    Not Active    Crystal Lake, IL 
+ Smith, David    15.7    Barrington, IL 
+ Smith, David    Not Active    Elgin, IL 
+ Smith, David    26    Indian Head Park, IL 
+ Smith, III, David   Not Active    Village of Lakewood, IL 
+ Smith, David W    Not Active    Homer Glenn, IL 
+ Smith, David    17.5    Winnetka, IL 
+ Smith, David    Not Active    Barrington, IL 
+ Smith, David G    Not Active    Chicago, IL 
+ Smith, David    Not Active    Chicago, IL 
+ SMITH, DAVID    Not Active    Naperville, IL 
+ Smith, David R    18.3    Sycamore, IL 
+ Smith, David    12    Flossmoor, IL 
+ Smith, David    19.8    Naperville, IL 
+ Smith, Dawn   29.6    McHenry, IL 
+ Smith, Dawn   N/H     Heyworth, IL 
+ Smith, Dawn l   N/H     Bloomingdale, IL 
+ Smith, Dawn   19.4    Rochelle, IL 
+ Smith, Dean   14.7     
+ Smith, Dean   Not Active     
+ Smith, Deb    40.9    Byron, IL 
+ Smith, Debra    30.1    Chicago, IL 
+ Smith, Denis    16.3    Elk Grove Village, IL 
+ Smith, Dennis   Not Active    Roberts, IL 
+ Smith, Dennis   27.3    Northbrook, IL 
+ Smith, Dennis   Not Active    La Place, IL 
+ Smith, Dennis   Not Active    Vail, AZ 
+ Smith, Derek    2.8     Johnston City, IL 
+ SMITH, DEREK    Not Active     
+ Smith, Derek W    Not Active    Chicago, IL 
+ Smith, Derran M   15.8    St. Charles, IL 
+ Smith, Diane    Not Active    Winnetka, IL 
+ Smith, Dick   Not Active    Lisle, IL 
+ Smith, Dirk   Not Active    Schaumburg, IL 
+ Smith, Dirk   Not Active    Schaumburg, IL 
+ Smith, Dominick   10.5    Elmhurst, IL 
+ Smith, Don    15.3    MOKENA, IL 
+ Smith, Don    7.5     Desplaines, IL 
+ SMITH, DON A    Not Active    JOLIET, IL 
+ Smith, Don    Not Active    Centralia, IL 
+ Smith, Don    11.8    Naples, FL 
+ Smith, Don    22.4    Manteno, IL 
+ Smith, Don    N/H     Aurora, IL 
+ Smith, Don    24.2    Marion, IL 
+ Smith, Don    Not Active    Antioch, IL 
+ Smith, Donald   N/H     Woodstock, IL 
+ Smith, Donald L.    31.9    Cary, IL 
+ Smith, Donald   Not Active    New Fairfield, CT 
+ Smith, Donald   12.8    Winnetka, IL 
+ Smith, Donald   Not Active    Arlingon Hights, IL 
+ Smith, Donald E.    Not Active     
+ Smith, Donavon    Not Active    Hinsdale, IL 
+ Smith, Donna    41    Aurora, IL 
+ Smith, Donna    34.8     
+ Smith, Donna    30.6    Pontiac, IL 
+ Smith, Donna    21.5    NORTH BARRINGTON, IL 
+ Smith, Dorothy    N/H     Valparaiso, IN 
+ Smith, Dorothy    47.1     
+ Smith, Dorothy    N/H     La Grange, IL 
+ Smith, Dot    Not Active    Lagrange, IL 
+ Smith, Dottie   48.6    Bristol, IL 
+ Smith, Doug   2     Effingham, IL 
+ Smith, Doug   Not Active    Chicago, IL 
+ Smith, Doug   17.6     
+ Smith, Doug   18.4    Inverness, IL 
+ Smith, Doug   Not Active    EFFINGHAM, IL 
+ Smith, Doug   Not Active    Teutopolis, IL 
+ Smith, Doug   4.4     Rockford, IL 
+ Smith, Douglas    16.1    Evanston, IL 
+ Smith, Douglas C    Not Active    Glenview, IL 
+ Smith, Duane    Not Active    Urbana, IL 
+ Smith, Dudley   N/H      
+ Smith, Duncan   Not Active    Lake Forest, IL 
+ Smith, Dustyn   Not Active    peoria, il 
+ Smith, Dustyn S   Not Active    Peoria, IL 
+ Smith, Dwight   Not Active    Flossmoor, IL 
+ Smith, Jr, EB   18    Lake Forest, IL 
+ Smith, Ed   21.8    Plano, IL 
+ Smith, Ed   Not Active    Kewanee, IL 
+ Smith, Ed   Not Active    Lake Forest, IL 
+ SMITH, Ed   Not Active    Dekalb, IL 
+ Smith, Edward   Not Active    Silvis, IL 
+ Smith, Edward L   10.4    St Charles, IL 
+ Smith, Eleanor    26.1    Chillicothe, IL 
+ Smith, Elizabeth    Not Active    WINNETKA, IL 
+ Smith, Ella   25.7    Hinsdale, IL 
+ Smith, Ellen    N/H     St Charles, IL 
+ Smith, Ellen    38.4    St. Charles, IL 
+ smith, eric d   1.4     peoria, il 
+ Smith, Eric   13.9    Valparaiso, IN 
+ Smith, Eric   Not Active    Lombard, IL 
+ Smithback, Eric   16.1    Lagrange Park, IL 
+ Smithson, Ezra    N/H     Oakland, IL 
+ Smith, Fran   N/H     Glen Ellyn, IL 
+ Smith, Fran   Not Active    St. Charles, IL 
+ Smith, Francis    27.1    Manteno, IL 
+ Smith, Frank    8.4     Bloomington, IL 
+ Smith, Franklin "Trey"    23.9    Bloomington, IL 
+ Smith, Fred   Not Active    Rancho Santa Fe, CA 
+ Smith, Fred   Not Active    Rockford, IL 
+ Smith, Fred   Not Active    Oregon, IL 
+ Smith, Fred   21.7    St. Charles, IL 
+ Smith, Frederick M.   Not Active    Chicago, IL 
+ Smith, G    18.2    Burr Ridge, IL 
+ Smith, Gabriella    N/H     Hinsdale, IL 
+ Smith, Gael   Not Active    Joliet, IL 
+ Smith, Gale   Not Active    Itasca , IL 
+ Smith, Garland    Not Active    Winnetka, IL 
+ Smith, Garland    Not Active    Winnetka, IL 
+ Smith, Garrett    N/H      
+ Smith, Garry    Not Active    Carol Stream, IL 
+ Smith, Gary   Not Active    Elgin, IL 
+ Smith, Gary   12    St. Charles, IL 
+ Smith, Genetta    Not Active    Tinley Park, IL 
+ Smith, George   N/H     Glenview, IL 
+ Smith, George J.    Not Active    zion, il 
+ Smith, George   Not Active     
+ Smith, George   Not Active    Glenview, IL 
+ Smith, George   Not Active    Glen Ellyn, IL 
+ Smith, George C   N/H     GLEN ELLYN, IL 
+ smith, gerald M   N/H     Glenwood, Il 
+ Smith, Gerald   N/H     Glenwood, Il 
+ Smith, Gerald   12.7    Mahomet, IL 
+ Smith, Gerald   Not Active    Schaumburg, IL 
+ Smith, Gerald   13.9    Des Plaines, IL 
+ Smith, Geralynn A   N/H     Homer Glen, IL 
+ Smith, Gerry    Not Active     
+ Smith, Ginny    Not Active     
+ Smith, Ginny    Not Active    Arlington Hts., IL 
+ Smith, Glen   N/H     Arlington Heights, IL 
+ Smith, Glenn R    Not Active    Valparaiso, IN 
+ Smith, Glenn    Not Active    Pekin, IL 
+ Smith, Gloria   30.1    Huntley, IL 
+ Smith, Gordon   14.2     
+ Smith, Gordon   Not Active    Lake Forest, IL 
+ Smith, Gordon   Not Active    Mattoon, IL 
+ Smith, Grace    N/H     Merrillville, IN 
+ Smith, Grant    Not Active     
+ Smith, Greg   Not Active     
+ Smith, Greg   13.3    Arlington Heights, IL 
+ Smith, Greg   13    Aurora, IL 
+ Smith, Greg H   10.8    Lake Forest, IL 
+ Smith, Greg   Not Active     
+ Smith, Greg   N/H      
+ Smith, Greg   12.4    Bradford, il 
+ Smith, Gregg    Not Active    Duluth, GA 
+ Smith, Gregory    4.4     Winfield, IL 
+ Smith, Gregory    Not Active    Chicago, IL 
+ Smith, Gregory M    Not Active    Flossmoor, IL 
+ Smith, Gwen   24.6    Riverside, IL 
+Smith, H   Not Active    Palm Harbor, FL 
+ Smith, Hallie   N/H     Barrington, IL 
+ Smith, Harlan P   24    Park Forest, Il 
+ Smith, Harold   21    Lake Geneva, WI 
+ Smith, Harry J    18.5    River Grove, IL 
+ Smith, Harry    15.1    Geneva, IL 
+ Smith, Helen    N/H     Claredon Hills, IL 
+ Smith, Helen    Not Active     
+ Smith, Henry    39.7    Springfield, IL 
+ Smith, Henry    14.8    Highwood, IL 
+ Smith, Hilary   25.6    Lake Forest, IL 
+ Smith, Holly    Not Active     
+ Smith, Homer    23.8    Homewood, IL 
+ Smith, Horace   Not Active    Oak Park, IL 
+ Smith, Howie    30.9    Geneva, IL 
+ Smith, Ian T    10.3    Hinsdale, IL 
+ Smith, Ingrid   Not Active    Decatur, IL 
+ Smith, Ingrid   N/H     Decatur, IL 
+ Smith, Ingrid   24.9    Decatur, IL 
+ Smith, J Clarke   14.9    Highland Park, IL 
+ Smith, J Eric   5.4     NEW CANAAN, CT 
+ Smithson, Jack    Not Active    Chicago, IL 
+ Smith, Jack   Not Active    Arlington Heights, IL 
+ Smith, Jack   N/H     Wheaton, IL 
+ Smith, Jack   20.5    Mchenry, IL 
+ Smith, Jack   N/H      
+ Smith, Jack   36.9    Joliet, IL 
+ Smith, Jack   N/H     Burr Ridge, IL 
+ Smith, Jackie   Not Active     
+ Smith, Jacob    N/H     Winthrop Harbor, IL 
+ Smith, Jaime    N/H     Lemont, IL 
+ Smith, Jake   Not Active    Winthrop Harbor, IL 
+ Smith, James    17.1    Joliet, IL 
+ Smith, James    Not Active    Palos Park, IL 
+ Smith, James    Not Active    West Dundee, IL 
+ Smith, James    14.5    Westchester, IL 
+ Smith, James    Not Active    Delavan, WI 
+ Smith, James H.   Not Active    schaumburg, IL 
+ Smith, James    11.9    Vernon Hills, IL 
+ Smithers, James   Not Active    Naperville, IL 
+ Smith, James H    19.3    FRANKFORT, IL 
+ Smith, James    18.7    Palatine, IL 
+ Smith, James    5.8     Palatine, IL 
+ Smith, James    23    Winnetka, IL 
+ Smith, James P.   7.4     Bolingbrook, IL 
+ Smith, James M    38.9    Somonauk, IL 
+ Smith , James   N/H     Orland Park, IL 
+ Smith, James    15.8    Chicago, IL 
+ Smith, James R.   Not Active    Somonauk, IL 
+ Smith, James    Not Active    Glenview, IL 
+ Smith, James    N/H     Bloomingdale, IL 
+ Smith, James    N/H      
+ Smith, James    Not Active    Braidwood, IL 
+ Smith, James H    19.3    Chicago, IL 
+ Smith III, James J    Not Active    Orland Park, IL 
+ Smith, Jan    36     
+ Smith, Jane   25.6    Harvard, IL 
+ Smith, Jane   N/H      
+ Smith, Jane   Not Active    FORT WORTH, TX 
+ Smith, Jane   N/H     Glencoe, IL 
+ Smith, Janette    35.2    Groveland, IL 
+ Smith, Janice   37.8     
+ Smith, Janine   Not Active    Richton Park, IL 
+ Smith, Janis    N/H     Lake Forest, IL 
+ Smith, Jared    Not Active     
+ smith, jarrett    Not Active    byron, il 
+ Smith, Jason    Not Active    libertyville, IL 
+ Smith, Jason D    Not Active    Chicago, IL 
+ Smith, Jason    19.5    St. Anne, IL 
+ Smith, Jason PC   Not Active    LAKE FOREST, IL 
+ SMITH, JAY    Not Active    Canton, IL 
+ Smith, Jay    Not Active    Mundelein, IL 
+ Smith, Jay    Not Active     
+ Smith, Jayma    N/H      
+ Smith, Jean L   40.8    Decatur, IL 
+ Smith, Jean   19.5    Champaign, IL 
+ Smith, Jean   16.2    Manteno, IL 
+ Smith, Jean   Not Active    Lake Forest, IL 
+ Smith, Jeff   11.8    South Barrington, IL 
+ Smith, Jeff   32.9    Rockford, IL 
+ Smith, Jeff A   Not Active    St. Charles, IL 
+ Smith, Jeff   27.7    Somonauk, IL 
+ Smith, Jeff D   9.1     RIVERTON, IL 
+ Smith, Jeff   10.2    Arlington Heights, IL 
+ Smith, Jeff   Not Active    Elk Grove, IL 
+ Smith, Jeff D.    Not Active    Elgin, IL 
+ Smith, Jeff   Not Active    Homewood, IL 
+ Smith, Jeff   8.9     Marengo, IL 
+ Smith, Jeff   20.9    Bourbonnais, IL 
+ Smith, Jeffery    Not Active    Glen Ellyn, IL 
+ Smith, Jeffrey Je   Not Active    Belvidere, IL 
+ Smith, Jeffrey    N/H      
+ Smith, Jeffrey D    14.8    Arlington Heights, IL 
+ Smith, Jeffrey D    N/H     Elburn, IL 
+ Smith, Jeffrey    N/H     Glen Ellyn, IL 
+ Smith, Jen    39    Rockford, IL 
+ Smith, Jennifer   Not Active    Springfield, Il 
+ Smith, Jeremy   Not Active    Clinton, IL 
+ Smith, Jerri    Not Active    Homewood, IL 
+ Smith, Jerri    N/H     Marietta, GA 
+ Smith, Jerry J.   Not Active    Georgetown, IL 
+ Smith, Jerry    Not Active    Danville, IL 
+ Smith, Jerry    4.7      
+ Smith, Jerry    14.7    HARTVILLE, WY 
+ Smith, Jerry    3.1     Crystal Lake, IL 
+ Smith, Jerry    9.2     St Charles, IL 
+ Smith, Jerry    N/H     Henning, IL 
+ Smith, Jeryl T    30    Sugar Grove, IL 
+ Smith, Jesse    Not Active    Chicago, IL 
+ Smith, Jesse    Not Active    Normal, IL 
+ Smith, Jesse    N/H      
+ Smith, Jill   N/H     Bloomington, IL 
+ Smith, Jim    18.8     
+ Smith, Jim    17.9    Braidwood, IL 
+ Smith, Jim    Not Active     
+ Smith, Jim    N/H     Palatine, IL 
+ Smithson, Jim   Not Active    Galesburg, IL 
+ Smith, Jim    24.9    Naperville, IL 
+ Smith, Jim    9.5     Downers Grove, IL 
+ Smith, Jim    11.8    Gurnee, IL 
+ Smith, Jim    18.9    Plano, IL 
+ Smith, Jim    Not Active    Lake Bluff, IL 
+ Smith, Jim    12.5    Woodstock, IL 
+ Smith, Jim    Not Active    Taylorville, IL 
+ Smith, Jim    Not Active    Frankfort, IL 
+ Smith, Jim P    17.7    Northbrook, IL 
+ Smith, Joanne   N/H     Kildeer, IL 
+ Smith, Jodi   34.8    long grove , IL 
+ Smith, Jodi   Not Active    Normal, IL 
+ Smith, Jody   Not Active    Chicago, IL 
+ Smith, Jody   18.3     
+ Smith, Joe    N/H     Woodstock, IL 
+ Smith, Joe    N/H      
+ Smith, Joe    Not Active    Taylorville, IL 
+ Smith, Joe    14.7    Urbana, IL 
+ Smith, Joe E    Not Active    Champaign, IL 
+ Smith, Joel   N/H     Arlington Heights, IL 
+ Smith, Joey   Not Active    Taylorville, IL 
+ Smith, John   Not Active    Glen Ellyn, IL 
+ Smith, John   N/H     Wilmette, IL 
+ Smith, John   17    University Park, IL 
+ Smith, John R   Not Active    Danville, IL 
+ Smith, John   Not Active    Springfield, IL 
+ Smith, John   Not Active    Woodridge, IL 
+ Smith, John   12.5    Clinton, IL 
+ Smith, John   25.3     
+ Smith, John   19.9    Naperville, IL 
+ Smith, John R   N/H      
+ Smith, John R   Not Active    WINNETKA, IL 
+ Smith, John   Not Active    Park City, IL 
+ Smith, John T   16.8    Hoffman Estates, IL 
+ Smith, John R   Not Active    Long Grove, IL 
+ Smith, John   N/H     Lisle, IL 
+ Smithwick, John P   Not Active    Lockport, IL 
+ Smith, John   17.1    McHenry, IL 
+ Smith, John Q   20    Clarendon Hills, IL 
+ Smith, John   11.3    Charleston, IL 
+ Smith, John   14.4    Glen Ellyn, IL 
+ Smith, John-Mark    Not Active    Chicago, IL 
+ Smith, Jon    11.2    Bloomington, IL 
+ Smith, Jon    Not Active    wheaton, IL 
+ Smith, Jonathan   Not Active    north chicago, IL 
+ Smith, Jonathan   Not Active     
+ Smith, Jonathan   11    Lake In The Hills, IL 
+ Smith, Jonette    N/H     Elmhurst, IL 
+ Smith, Joseph   7.5     Lisle, IL 
+ Smith, Joseph   N/H     Chicago, IL 
+ Smith, Joseph   N/H     Chicago, IL 
+ Smith, Joyce    28.5     
+ Smith, Judy M   32.6    Naperville, IL 
+ Smith, Judy   38.3    Lincoln, IL 
+ Smith, Judy   34.8    Burr Ridge, IL 
+ SMITH, JUDY   Not Active    Naperville, IL 
+ Smith, Judy   Not Active    Bartlett, IL 
+ Smith, Julian   Not Active    Pekin, IL 
+ Smith, Julie    25.9    Highland Park, IL 
+ Smith, Julie    Not Active    Flossmoor, IL 
+ Smith, June   Not Active    Peoria, IL 
+ Smith, Justin P   0.4     River Forest, IL 
+ Smith, Justin   Not Active    Princeton, Il., IL 
+ Smith, Justin   Not Active    Appleton, WI 
+ Smith, Justin N   19.7    Chicago, IL 
+ Smith, K    Not Active    Burr Ridge, IL 
+ Smith, Kara   N/H     Aurora, IL 
+ Smith, Karis    N/H     Downers Grove, IL 
+ Smith, Karl   16.5    Champaign, IL 
+ Smith, Karsten    Not Active    Woodstock, IL 
+ Smith, Karsten    7.1     Woodstock, IL 
+ Smith, Kate   Not Active    Lake Forest, IL 
+ Smith, Kathleen   24.2    Geneva, IL 
+ Smith, Kathy    Not Active    Cary, IL 
+ Smith, Kathy    N/H     Piper City, IL 
+ Smith, Kathy    13.2     
+ Smith, Kathy    N/H     Bartlett, IL 
+ Smith, Kay    Not Active    Bourbonnais, IL 
+ Smith, Keegan   17    Winnetka, IL 
+ Smith, Keith    10.4     
+ Smith, Kelly    Not Active    Chciago, IL 
+ Smith, Ken    Not Active    Vernon Hills, IL 
+ Smith, Ken    Not Active    niles, IL 
+ SMITH, KEN    Not Active     
+ Smith, Ken    Not Active    Decatur, IL 
+ Smith, Ken    Not Active    South Holland, IL 
+ Smith, Ken    10.6    Addison, IL 
+ Smith, Ken    Not Active    Darien, IL 
+ Smith, Ken P    18.3    Rolling Meadows, IL 
+ Smith, Ken    Not Active    Thomson, IL 
+ Smith, Kenneth    Not Active    Chicago, IL 
+ Smith, Kenneth    10.1    Blue Island, IL 
+ Smith, Kenneth    N/H     south Holland, IL 
+ Smith, Kent   Not Active     
+ Smith, Kevin C    19.9    Hammond, In 
+ Smith, Kevin g    18.4    Elmhurst, IL 
+ Smith, Kevin    Not Active    Champaign, IL 
+ Smith, Kevin    Not Active    Lake Forest, IL 
+ Smith, Kevin    10.7    Prospect, KY 
+ Smith, Kevin    Not Active    East Dundee, IL 
+ Smith, Kevin    17.8    Lincoln, IL 
+ Smith, Kevin G    12.3    Lake Forest , IL 
+ Smith, Kevin P    Not Active    Bartlett, IL 
+ Smith, Kevin    34.9    Northbrook, IL 
+ Smith, Kevin    Not Active    Lowell, IN 
+ Smith, Kevin    N/H      
+ Smith, Kevin    Not Active    Chicago, IL 
+ Smith, Kevin    Not Active    Champaign, IL 
+ Smith, Kevin    Not Active    Village of Lakewood, IL 
+ Smith, Kiki   19.9    Lake Forest, IL 
+ smith, kimberly   N/H     chicago, IL 
+ Smith, Kirk   3.2     Griffith, IN 
+ Smith, Kris   24.1    Springfield, IL 
+ Smith, Kris   Not Active    East Peoria, IL 
+ Smith, Kristie    N/H     Tinley Park, IL 
+ Smith, Kyle   N/H     Chicago, IL 
+ Smith, Kyle   Not Active    McHenry, IL 
+ Smith, L Randle   Not Active    Hammond, IN 
+ Smith, Lance    N/H     Western Springs, IL 
+ Smith, Lance    17.3     
+ Smith, Landell    5.6     Richton Park, IL 
+ Smith, Lanni    N/H     Byron, IL 
+ Smith, Larry    26.2    pekin, IL 
+ Smith, Larry    11.9    JACKSONVILLE, IL 
+ Smith, Larry    N/H     Inverness, IL 
+ Smith, Larry    11.7    CROWN POINT, IN 
+ Smith, Larry    8     Plano, IL 
+ Smith, Larry    Not Active    Darien, IL 
+ Smith, Larry    Not Active    Danville, IL 
+ Smith, Larry    13.6    Winfield, IL 
+ Smith, Larry    12.1    Springfield, IL 
+ Smith, Larry    3.5     Long Grove, IL 
+ Smith, Larry    Not Active    Homer Glen, IL 
+ Smith, Larry    14.7    Arlington Heights, IL 
+ Smith, Larry    Not Active    Deerfield, IL 
+ Smith, Larry    17.4    Deerfield, IL 
+ Smith, Larry    Not Active    Palatine, IL 
+ SMITH, LARRY    Not Active    CRYSTAL LAKE, IL 
+ Smith, Laura    Not Active    Gurnee, Il 
+ Smith, Laura    27.8     
+ Smith, Laura    26     
+ Smith, Lauren   N/H     Bedford Park, IL 
+ Smith, Laurie   Not Active    Chicago, IL 
+ Smith, Lawernce   Not Active    Lincoln, IL 
+ Smith, Lawrence   Not Active    Urbana, IL 
+ Smith, Lawrence   N/H     Olympia Fields, IL 
+ Smith, Lee    5.2     Champaign, IL 
+ Smithwick, Lee    Not Active    Burr Ridge, IL 
+ Smith, Len    Not Active    STREAMWOOD, IL 
+ Smith, Leo    Not Active    Camanche, IA 
+ Smith, Leonard    Not Active    CHICAGO, IL 
+ Smith, LeRoy    N/H     Easton, Il 
+ Smith, Leroy    Not Active    Easton, IL 
+ Smith, Leslie   16.7    Lake Bluff, IL 
+ Smith, Linda    Not Active    Virden, IL 
+ Smith, Lindsay T.   Not Active    Chicago, IL 
+ Smith, Link   10.1    Glenview, IL 
+ Smith, Lisa   Not Active    Goodyear, AZ 
+ Smith, Lisa   N/H     Naperville, IL 
+ Smith, Lon    23.4     
+ Smith, Loren    18     
+ Smith, Loretta    37.6    Bartlett, IL 
+ Smith, Lori   Not Active    Danville, IL 
+ Smith, Lorraine   Not Active    Rockford, IL 
+ Smith, Louise m   Not Active    Lake Forest, IL 
+ Smith, Louise   N/H     Bloomington, IL 
+ Smith, Lukas    Not Active    Elgin, IL 
+ Smith, Lukas J.   Not Active    Elgin, IL 
+ Smith, Lydia    N/H     Lake Forest, IL 
+ Smith, Nan    Not Active    Chicago, IL 
+ Smith Of James, Nancy   9.4     Palatine, IL 
+ Smith Of Paul, Nancy    22.1    Barrington, IL 
+ Smith Of James, Nancy   18.4    Palatine, IL 
+ Smith, Nancy    60.7    Springfield, IL 
+ Smith, Nancy    Not Active    Danville, IL 
+ Smith, Neil   N/H     Lake Forest, IL 
+ Smith, Nick   0.9     Chicago, IL 
+ smith, niel   Not Active    woodridge, il 
+ Smith, Noel   Not Active    La Grange Park, IL 
+ Smith, Norm   Not Active    Peoria, IL 
+ Smith, Norman   Not Active    BOLINGBROOK, IL
+ Smith, Pam    41.1    Long Grove, IL 
+ Smith, Pat    Not Active     
+ Smith, Pat    Not Active    LaSalle, IL 
+ Smith, Pat    Not Active     
+ Smith, Pat    5.6     Joliet, IL 
+ Smith, Pat    6.7     McHenry, IL 
+ Smith, Pat    32.4    Elk Grove Village, IL 
+ Smith, Patrick    N/H     Lake in The Hills, IL 
+ Smith, Patrick    N/H      
+ Smith, Jr., Patrick   Not Active    Joliet, IL 
+ Smith, Patrick J    16.4    Morton Grove, il 
+ Smith, Patrick    Not Active    Lasalle, IL 
+ Smith, Patrick J.   N/H     Des Plaines, IL 
+ Smith, Patrick    14.9    Crystal Lake, IL 
+ Smith, Patty    19.7    Rockford, IL 
+ Smith, Patty    Not Active    Rockford, IL 
+ Smith, Paul   Not Active    Belden , MO 
+ Smith, Paul B   Not Active    Elmhurst, IL 
+ Smith, Sr, Paul   Not Active    Barrington, IL 
+ Smith, Jr, Paul   Not Active    Lombard, IL 
+ Smith, Paula    7.3     Champaign, IL 
+ Smith, Paula    Not Active    Champaign, IL 
+ Smith, Peg    N/H     Rockford, IL 
+ Smith, Peg    Not Active    Rockford, IL 
+ Smith, Peggy    24.8    Bloomington, IL 
+ Smith, Peggy    Not Active    Mchenry, IL 
+ Smith, Pete   Not Active    Normal, IL 
+ Smith, Pete   N/H     Harrisburg, IL 
+ Smith, Pete   Not Active     
+ Smith, Peter    12.8    Lake Bluff, IL 
+ Smith, Peter    N/H     Mt.Carroll, IL 
+ Smith, Phil   13.3    Cowden, Il 
+ Smith, Phil   16.7    Schaumburg, IL 
+ Smith, Philip   Not Active    Elgin, IL 
+ Smith, Philip W   24.3    Arlington Heights, IL 
+ Smith, Phillip    16.9    Highland Park, IL 
+ Smith, Pidge    Not Active    Coal City, IL 
+ Smith, Porter   Not Active    Villa Park, IL 
+ Smith, Preston G.   19.8    Mattoon, IL 
+ Smith, Ralph    23.9    Crystal Lake, IL 
+ Smith, Ralph    Not Active    Rolling Meadows, IL 
+ Smith, Randle   N/H     Munster, IN 
+ Smith, Randy    Not Active    HOBART, IN 
+ Smith, Randy    12.7    DeKalb, IL 
+ Smith, Randy    Not Active    Thomson, IL 
+ Smith, Ray    Not Active    Rantoul, IL 
+ Smith, Ray    Not Active    Joliet, IL 
+ Smith, Rebecca A    10    River Grove, IL 
+ Smith, Rees   Not Active    Hoffman Estates, IL 
+ smith, reggie   22.4    geneva, IL 
+ SMITH, Rich   Not Active    Yorkville, IL 
+ Smith, Rich   13.2    DECATUR, IL 
+ Smith, Richard    Not Active    Inverness, IL 
+ Smith, Richard    Not Active    Barrington, IL 
+ Smith, Richard    Not Active    Flossmoor, IL 
+ Smith, Richard A    23.1    St Charles, IL 
+ Smith, Richard D.   N/H     Salem, IL 
+ Smith, Richard    Not Active    Effingham, IL 
+ Smith, Richard    Not Active    Crown Point, IN 
+ Smith, Richard    12.9    River Forest, IL 
+ Smith, Rick   15    Frankfort, IL 
+ Smith, Rick   15.2    Ivanhoe, IL 
+ Smith, Rick   Not Active    CHICAGO, IL 
+ Smith, Rick   6.9     Crystal Lake, IL 
+ Smith, Rick   9.1     Highland Park, IL 
+ Smith, Rick   N/H      
+ SMITH, RICK   Not Active    GLENVIEW, IL 
+ Smith, Rick   26.6    Burr Ridge, IL 
+ Smith, Rick   4.6     Chicago, IL 
+ Smith, Rick   Not Active     
+ Smith, Rick   Not Active    glenview, IL 
+ Smith, Rick   Not Active    Algonquin, IL 
+ Smith, Rickey L   24.2    Evanston, IL 
+ Smith, Rita   Not Active    Washington, IL 
+ Smith, Rob    N/H     Evergreen Park, IL 
+ Smith, Robb   Not Active    Dekalb, IL 
+ Smith, Robert   Not Active    St Charles, IL 
+ Smith, Robert   Not Active    Elgin, IL 
+ Smith, Robert   Not Active    Decatur, IL 
+ Smith, Robert L   Not Active    Marengo, IL 
+ Smith, Robert L.    Not Active    University Park, IL 
+ Smith, Robert   10    Decatur, IL 
+ Smith, Robert   8.6     Champaign, IL 
+ Smith, Robert A   26.7    Ingleside, IL 
+ Smith, Robert   Not Active    Plainfield, IL 
+ Smith, Robert   12     
+ Smith, Robert   Not Active    Chicago, IL 
+ Smith, Robert   7.2     Park Ridge, IL 
+ Smith, Robert A   Not Active    Bourbonnais, IL 
+ Smith, Robert P   Not Active    Elmhurst, IL 
+ Smith, Robert   Not Active    Oak Lawn, IL 
+ Smith, Robert   N/H     Crown Point, IN 
+ Smith, Robert L   Not Active    Chicago, IL 
+ Smith, Robert   N/H     Crown Point, IN 
+ Smith, Robert C   15.3    Westmont, IL 
+ Smith, Robert L.    N/H      
+ Smith, Robert   Not Active    Valparaiso, IN 
+ Smith, II, Robin    Not Active    Waukegan, IL 
+ Smith, Rod    Not Active    Kewanee, IL 
+ Smith Jr, Rod D   0     Dunlap, IL 
+ Smith, Rodger   Not Active    Virden, IL 
+ Smith, Rodney   11.3    Mattoon, IL 
+ Smith, Roger    Not Active    Chillicothe, IL 
+ Smith, Roger K    12.4    Wilmette, Il 
+ Smith, Roger    Not Active    Prospect, KY 
+ Smith, Roger    16.1    Normal, IL 
+ Smith, Roger    Not Active    Homer Glen, IL 
+ Smith, Ron    Not Active    Harvard, IL 
+ Smith, Ron    18.1    Sugar Grove, IL 
+ Smith, Ron    N/H      
+ SMITH, RON    N/H      
+ Smith, Ron    Not Active    Lakemoor, IL 
+ Smith, Ron    Not Active    Glenview, IL 
+ Smith, Ron    14.7    Bloomington, IL 
+ Smith, Ron    13.6    Springfield, IL 
+ SMITH, RON    Not Active     
+ Smith, Ron    15.5    Bourbonnais, IL 
+ Smith, Ron    20.9    Joliet, IL 
+ Smith, Ron    12.9    Springfield, IL 
+ Smith, Ron    16.8    Buffalo Grove, IL 
+ Smith, Ron    N/H     Princeton, IL 
+ Smith, Ronald   Not Active    Glenview, IL 
+ Smith, Ronald J   12    Lake Barrington, IL 
+ Smith, Ronald M   Not Active    Louisville, KY 
+ Smith, Ronald   Not Active    Riverside, IL 
+ Smith, Ronald   15    Arcola, IL 
+ Smith, Ronald M.    27.1    Glen Ellyn, IL 
+ Smith, Ronald W   25.5    Paris, IL 
+ Smith, Rory   Not Active    Flossmoor, IL 
+ Smith, Rose   33.5    Manteno, IL 
+ Smith, Ross B   12.1    Chicago, IL 
+ Smith, Ruddy    27.9    Lake Forest, IL 
+ Smith, Russ   Not Active    Downers Grove, IL 
+ Smith, Russ   17.6    Chillicothe, IL 
+ Smith, Russell    Not Active    Barrington, IL 
+ SMITH, Russell    24.1    Hinckley, IL 
+ Smith, Ruth   47.6     
+ Smith, Ruth   N/H     Indian Head Park, IL 
+ Smith, Ruth   27.6    St Charles, IL 
+ Smith, Ruth   Not Active    LaGrange, IL 
+ SMITH, RUTH   Not Active     
+ Smith, Ruth Ann   25.7    Oak Brook, IL 
+ Smith, Rutledge   4.3      
+ Smith, Rw   34.9    Decatur, IL 
+ Smith, Ryan   N/H     Roselle, IL 
+ Smithson, Ryan    Not Active     
+ Smith, Ryan C   Not Active    Elgin, IL 
+ Smith, Ryan G   25.6    Sycamore, IL 
+ Smith, Ryan   Not Active     
+ Smith, Ryan   Not Active    plano, IL 
+mith, Val    21.5    Springfield, IL 
+ Smith, Valarie    34.7    River Forest, IL 
+ Smith, Vasilios   8.2     Aurora, IL 
+ Smith, Verina   Not Active    crystal lake, il 
+ Smith.,Jr, Vern   Not Active    Kilbourne, IL 
+ Smith, Vern III   N/H     Kilbourne, Il 
+ Smith, Vern Jr.   N/H     Kilbourne, Il 
+ Smith, Vernon   Not Active    Normal, IL 
+ Smith, Vicky    32.6    Barrington, IL 
+ Smith, Virgil   15.4    Jacksonville, IL 
+ Smith, Walt   Not Active    Decatur, IL 
+ Smithe, Walter    30.6    Barrington, IL 
+ Smith, Wayne    N/H     Joliet, IL 
+ Smith, Wayne    Not Active    Evergreen, IL 
+ Smith, Wendell    Not Active    Sandwich, IL 
+ Smith, Wendie   27.8     
+ Smith, Wes    N/H     Lake Zurich, IL 
+ Smith, Wes    10.8    Bridgep0rt, IL 
+ Smith, Will   N/H     Wilmette, IL 
+ Smith, William    Not Active    Plano, IL 
+ Smith, William    20.4    River Forest, IL 
+ Smith, William P.   22.8    Lake Forest, IL 
+ Smith, William    N/H     Streamwood, IL 
+ Smith, William T    31    Tinley Park, IL 
+ Smith, William    Not Active    Saint John, IN 
+ Smithburg, William    12.7    Chicago, IL 
+ Smith, William    12.5    Riverside, IL 
+ Smith, William T.   Not Active    Tinley Park, IL 
+ Smith, William    Not Active    Rancho Mirage, CA 
+ Smith, Wilma    40.3    Country Club Hills, IL 
+ Smith, Zac    14.3    St Louis, MO 
+ Smith, Zach   N/H     Tuscola, Il 
+ Smith, Zachary    Not Active    BuffaloGrove, IL 
+ Smith, Zannie   Not Active    Bloomington, IL 
+ Smith, Zig    33.2    Winnetka, IL 
+ Johnson, Aaron    Not Active    Buckingham, IL 
+ Johnson, Abigail    N/H     Wheaton, IL 
+ Johnson, Adam   Not Active    Winnetka, IL 
+ Johnson, Adam   Not Active    Park Forest, IL 
+ Johnson, Adam   N/H     North Aurora, IL 
+ Johnson, Adam s   3.1     PLANO, IL 
+ Johnson, Adam   Not Active    Winnetka, IL 
+ Johnson, Adam   Not Active    chicago, IL 
+ Johnson, AJ   Not Active    Mt Zion, IL 
+ Johnson, Al   N/H     Elgin, IL 
+ Johnson, Albert   N/H     Oak Park, IL 
+ Johnson, Albert   24.4    elgin, IL 
+ Johnson, Alex   N/H     Downers Grove, IL 
+ Johnson, Alexander    N/H     Shorewood, IL 
+ Johnson, Allen    Not Active    Loda, IL 
+ Johnson, Allison    36.3    Frankfort, IL 
+ Johnson, Alvin    11.8    North Barrington, IL 
+ Johnson, Andrew   Not Active    South Holland, IL 
+ Johnson, Andrew   Not Active    spring grove, il 
+ Johnson, Andrew   Not Active    hanover park, IL 
+ Johnson, Andy   Not Active    Chicago, IL 
+ Johnson, Andy   0.5     Lake Bluff, IL 
+ Johnson, Angela   N/H     Chicago, IL 
+ Johnson, Ann    30.8    Evanston, IL 
+ Johnson, Ann    Not Active    Lake Barrington, IL 
+ Johnson, Anne   32.6    Murphysboro, IL 
+ Johnson, Annie    21    Piper City, IL 
+ Johnson, Anthony D.   4     Bourbonnais, IL 
+ Johnson, Antoine    Not Active    Harvey, IL 
+ Johnson, Antoinette   Not Active    Carol Stream, IL 
+ Johnson, Antonio L    N/H     Peoria, IL 
+ Johnson, Arnold   Not Active    Naperville, IL 
+ Johnson, Arnold   N/H     Flossmoor, IL 
+ Johnson, Art    28    Dixon, IL 
+ Johnson, Art    14.7    Ocala, FL 
+ Johnson-Williams, Ashley    N/H     Richton Park, IL 
+ Johnson, Audrey   Not Active    Elmhurst, IL 
+ Johnson, Austin S   Not Active    Libertyville, IL 
+ Johnson, Barb   N/H     Roselle, IL 
+ Johnson, Barb   23.5    Glen Ellyn, IL 
+ Johnson, Barb   27    Sterling, IL 
+ Johnson, Barb   24.4    Belvidere, IL 
+ Johnson, Barbara    20    Roselle, IL 
+ Johnson, Barbara    13.3    Carefree, AZ 
+ Johnson, Barbara    34.3    Winnetka, IL 
+ Johnson, Barbara    34.8    Homer Glen, IL 
+ JOHNSON, Baret    Not Active    Waterman, IL 
+ Johnson, Barry    Not Active    Springfiled, IL 
+ Johnson, Bart   13.4    Barrington, IL 
+ Johnson, Ben    N/H     Canton, IL 
+ Johnson, Ben    15.3    Chicago, IL 
+ Johnson, Benjamin   N/H     Downers Grove, IL 
+ Johnson, Beth   Not Active    Wheaton, IL 
+ JOHNSON, BETTY    Not Active     
+ Johnson, Betty    N/H     Aurora, IL 
+ Johnson, Bev    16.4    Glen Ellyn, IL 
+ Johnson, Bev    Not Active    Glen Ellyn, IL 
+ Johnson, Beverly J    34.1    Frankfort, IL 
+ Johnson, Bill   Not Active    Chicago, IL 
+ Johnson, Bill   N/H     Jackson, TN 
+ Johnson, III, Bill    Not Active    Lake Forest, IL 
+ Johnson, Bill   Not Active    Chicago, IL 
+ Johnson, Bill   10.6    Geneva, IL 
+ Johnson, Bill   1.7     Murphysboro, IL 
+ Johnson, Bill   2.9     Kankakee, IL 
+ Johnson, Bill   Not Active    Mokena, IL 
+ Johnson, Bill   Not Active    Lake Bluff, Il 
+ Johnson, Bill   Not Active    Lake Forest, IL 
+ Johnson, Bill   N/H     LOUISVILLE, KY 
+ Johnson, Bill   Not Active    Orland Park, IL 
+ Johnson, Billie   Not Active    Peoria, IL 
+ Johnson, Blair    Not Active    Lake In The Hills, Il 
+ Johnson, Blake A    15    Lemont, IL 
+ Johnson, Blake    Not Active    Paxton, IL 
+ Johnson, Blake R    1.4     Winnetka, IL 
+ Johnson, Blake    Not Active    Bristol, IL 
+ Johnson, Blake A    1.4     GLEN ELLYN, IL 
+ Johnson, Bob S.   Not Active    Oswego, IL 
+ Johnson, Bob    1.3     Algonquin, IL 
+ Johnson, Bob    4.8     Downers Grove, IL 
+ Johnson, Bob    12.4    Geneva, IL 
+ Johnson, Bob    Not Active    Geneseo, IL 
+ Johnson, Bob    8.4      
+ Johnson, Bob    10.9    Downers Grove, IL 
+ JOHNSON, BOB    Not Active    HOBART, IN 
+ Johnson, Bob    23.6    Arlington Heights, IL 
+ Johnson, Bob    13.6    Homewood, IL 
+ Johnson, Bob    N/H     Barrington, IL 
+ Johnson, Bob    10.3    carmi, IL 
+ Johnson, Bobby    N/H      
+ Johnson, Brad E   12.9    Gilberts, IL 
+ Johnson, Brad   11.3    Crystal Lake, IL 
+ Johnson, Bradley    Not Active    Aurora, IL 
+ Johnson, Brandon    Not Active     
+ Johnson, Brandon r    9.8     Naperville, IL 
+ Johnson, Brandt   12    Williams Bay , WI 
+ Johnson, Brenda   15.6     
+ Johnson, Brenda   29.3    Peoria, IL 
+ Johnson, Brendon J    27.7    Pekin, IL 
+ Johnson, Brent C    19.4    Peoria, IL 
+ Johnson, Brent    18.2    Belvidere, IL 
+ Johnson, Brent    Not Active    Woodstock, IL 
+ Johnson, Bret   11.3    Evanston, IL 
+ Johnson, Brett    N/H     Chicago, IL 
+ Johnson, Brett    Not Active    CHICAGO, IL 
+ Johnson, Brett S    16.6    Rolling Meadows, IL 
+ Johnson, Brett    N/H     Highland Park, IL 
+ Johnson, Brett    5.5     Geneva, IL 
+ Johnson, Brett    6.8     Orland Park, IL 
+ Johnson, Brett    5.4     Yorkville, IL 
+ Johnson, Brian    N/H     Glenview , IL 
+ Johnson, Brian L    11.3    Paxton, IL 
+ Johnson, Brian F    15    Geneva, IL 
+ Johnson, Brian m    Not Active    New Lenox, IL 
+ Johnson, Brian    Not Active    Elk Grove Village, IL 
+ Johnson, Brian    4.6     Chicago, IL 
+ Johnson, Brian    8.4     Glenview, IL 
+ Johnson, Brian    Not Active    Paxton, IL 
+ Johnson, Brian    Not Active    South Holland, IL 
+ Johnson, Brian    5.2     Barrington, IL 
+ Johnson, Brian M    10.3    Chicago, IL 
+ Johnson, Brian    Not Active    Elmhurst, IL 
+ Johnson, Brian    Not Active    Plano, IL 
+ Johnson, Brian    9.6     Park Ridge, IL 
+ Johnson, Bruce    16.6    Rochelle, Il 
+ Johnson, Bruce P    Not Active    Riverwoods, IL 
+ Johnson, Bruce    17.8    Downers Grove, IL 
+ Johnson, Bruce    Not Active    Grayslake, IL 
+ Johnson, Bruce    Not Active    lake forest, IL 
+ Johnson, Bruce    Not Active    Libertyville, IL 
+ Johnson, Bruce    N/H     Grayslake, IL 
+ Johnson, Bruce    15.1    arlington heights, IL 
+ Johnson, Bruce, Jr.   Not Active    Chicago, IL 
+ Johnson, Bryan    Not Active    Downers Grove, IL 
+ Johnson, Bryan    Not Active    Chicago, IL 
+ Johnson, Bryce    Not Active    Cary, IL 
+ jOHNSON, BUD    N/H     STANFORD, IL 
+ Johnson, Bunny    50.8    Wilmette, IL 
+ Johnson, Butch    N/H     Peotone, IL 
+ Johnson, Byron    18.3    Barrington, IL 
+ Johnson, Byron    Not Active    McHenry, IL 
+Johnson, Cameron   N/H     Galesburg, IL 
+ Johnson, Candy    Not Active    Knoxville, IL 
+ Johnson, Candy    Not Active    KNOXVILLE, TN 
+ Johnson, Carl V   Not Active    Grayslake, IL 
+ Johnson, Carl   Not Active    Barrington, IL 
+ Johnson, Carlene    Not Active    Mahomet, IL 
+ JOHNSON, Carol    37.2     
+ Johnson, Carol    16.6    Naperville, IL 
+ Johnson, Carol    Not Active    Hobart, IN 
+ Johnson, Carol    49.5    long grove, IL 
+ Johnson, Casey    Not Active    Geneva, IL 
+ Johnson, Casey    8.7     Peoria , IL 
+ Johnson, Celeste    21    Chicago, IL 
+ Johnson, Chad   N/H     Huntley, IL 
+ Johnson, Chad   17.7    Sycamore, IL 
+ Johnson, Chad   N/H     Elmwood, IL 
+ Johnson, Chad   Not Active    AURORA, IL 
+ JOHNSON, CHAD   Not Active    Cary, IL 
+ Johnson, Charles V    Not Active    Great Lakes, IL 
+ Johnson, Charles J    22    Bristol, IL 
+ Johnson, Charles    17.6     
+ Johnson, Charles    N/H      
+ Johnson, Charles    19.2    Highland Park, IL 
+ Johnson, Charlotte    Not Active    Darien, IL 
+ JOHNSON, Cheri    Not Active     
+ Johnson, Chip Fred    7     Rockford, IL 
+ Johnson, Chris    Not Active    Northfield, IL 
+ Johnson, Chris    N/H     Oswego, IL 
+ Johnson, Chris J    11.3    Evanston, IL 
+ Johnson, Chris    Not Active    Cary, IL 
+ Johnson, Chris    2.6     BURR RIDGE, IL 
+ Johnson, Chris    Not Active    Lake Forest, IL 
+ Johnson, Chris    11.2    Oswego, IL 
+ Johnson, Chris    N/H     Western Springs, IL 
+ Johnson, Christopher A.   13.5    Arlington Heights, IL 
+ Johnson, Christopher    Not Active    lake forest, IL 
+ Johnson, Chuck    13.7    Lake Bluff, IL 
+ Johnson, Chuck    12.7    Aurora, IL 
+ Johnson, Cindy    Not Active    Burr Ridge, IL 
+ Johnson, CJ   Not Active    Crystal Lake, IL 
+ Johnson, CLark    Not Active    Bloomington, IL 
+ Johnson, Cliff    12.2    Chesterton, IN 
+ Johnson, Clifford   Not Active    Champaign, IL 
+ Johnson, Connie   17.4    Champaign, IL 
+ Johnson, Courtney   N/H     DeKalb, IL 
+ Johnson, Craig    6.7     Dekalb, IL 
+ Johnson, Craig    3.8     Williams Bay, WI 
+ Johnson, Craig    18.8    Chicago, IL 
+ Johnson, Craig    Not Active    Algonquin, IL 
+ Johnson, Craig R    Not Active    Harwood Heights, IL 
+ JOHNSON, CURTIS   N/H      
+ JOHNSON, CURTIS   Not Active    Naperville, IL 
+ Johnson, Curtis   Not Active    Chicago, IL 
+Johnson, Daffy   Not Active    Taylorville, IL 
+ Johnson, Dahn   N/H     Woodridge, IL 
+ Johnson, Dale   Not Active    Genoa, IL 
+ Johnson, Dale   Not Active    Lake Geneva, WI 
+ Johnson, Dale   11.4    Arlington Hts, IL 
+ Johnson, Dale A   Not Active    Rockford, IL 
+ Johnson, Dale   25.4     
+ Johnson, Dan    N/H     , IL 
+ Johnson, Dan J    1.7     Wheaton, IL 
+ Johnson, Dan    Not Active    West Chicago, IL 
+ Johnson, Dan    N/H     Wheaton, IL 
+ JOHNSON, Dan    22.8     
+ Johnson, Dan    Not Active    Canton, IL 
+ Johnson, Dan    14.7    Hawthorn Woods, IL 
+ Johnson, Dana   Not Active     
+ Johnson, Daniel   Not Active    Highland Park, IL 
+ Johnson, Daniel J   11.6    Munster, IN 
+ Johnson, Daniel   N/H     Bourbonnais, IL 
+ Johnson, Dann   Not Active    Champaign, IL 
+ Johnson, Darrell    26    Kewanee, IL 
+ Johnson, Darrell    Not Active    Rockford, IL 
+ Johnson, Darren   N/H     Rolling Meadows, IL 
+ Johnson, Darren   Not Active    Glen Ellyn, IL 
+ Johnson, Darren   Not Active    Glen Ellyn, IL 
+ Johnson, Darryl   12    Jacksonville, IL 
+ Johnson, Dathan   Not Active    Rochester, IL 
+ JOHNSON, DAVE   21.5    WATSEKA, IL 
+ Johnson, Dave   14.7    HOOPESTON, IL 
+ Johnson, Dave L.    Not Active    Sun City Center, FL 
+ Johnson, Dave   8.8     Wheaton, IL 
+ Johnson, Dave   Not Active    lagrange, IL 
+ Johnson, Dave   N/H     Champaign, IL 
+ Johnson, Dave B   24    Chicago, IL 
+ Johnson, David    13.2    Champaign, IL 
+ Johnson, David    21.8    Huntley, IL 
+ Johnson, David L    Not Active    Chicago, IL 
+ Johnson, David    Not Active    Morton Grove, IL 
+ Johnson, David    13.3    Lake Forest, IL 
+ Johnson, David    3.8     Chicago, IL 
+ Johnson, David P    10    West Chicago, IL 
+ Johnson, David    20.7    Elgin, IL 
+ Johnson, David    24.1    Pekin, IL 
+ Johnson, David C.   2.2     Indian Head Par, IL 
+ Johnson, David    27.7    Decatur, IL 
+ Johnson, David a    10.8    Glen Ellyn, IL 
+ Johnson, David    Not Active    Wilmette, IL 
+ Johnson, David    14.6    Homer Glen, IL 
+ Johnson, David    14.9    Charleston, IL 
+ Johnson, David    Not Active    Hobart, IN 
+ Johnson, David L.   Not Active     
+ Johnson, David    Not Active    Galesburg, IL 
+ Johnson, David    Not Active    Marseilles, IL 
+ Johnson, David    N/H      
+ Johnson, David    14.2    Mokena, IL 
+ Johnson, David D.   25.6    Clarendon Hills, IL 
+ Johnson, David    18.4    Geneva, IL 
+ Johnson, David G.   Not Active    Wilmette, IL 
+ Johnson, Dean   Not Active    Lewistown*, IL 
+ Johnson, Deane    Not Active    Evanston, IL 
+ Johnson, Deb    Not Active    Rockford, IL 
+ Johnson, Deborah    24.2    Chicago, IL 
+ Johnson, Denis    Not Active    Glen Ellyn, IL 
+ Johnson, Denise   Not Active    Chicago, IL 
+ Johnson, Dennis   Not Active    Rolling Meadows, IL 
+ Johnson, Dennis R.    11.4    Darien, IL 
+ Johnson, Dennis M   Not Active    Hanover Park, IL 
+ Johnson, Dennis   12.2    Shorewood, IL 
+ Johnson, Dennis   15.4    Effingham, IL 
+ Johnson, Dennis Rl    18.1    Rockford, IL 
+ Johnson, Derrick    Not Active    Chicago, IL 
+ Johnson, Diane    Not Active    Pekin, IL 
+ Johnson, Diane D    17.3    Northfield, IL 
+ Johnson, Diane    N/H      
+ Johnson, Dianne   32.8    Decatur, IL 
+ Johnson, Dick   14.8    Bloomington, IL 
+ Johnson, Dick   Not Active    Pontiac, IL 
+ JOHNSON, Digiovine    N/H      
+ Johnson, Dj J   1.5     Munster, IN 
+ Johnson, Don    Not Active     
+ Johnson, Don J    13.7    Munster, IN 
+ Johnson, Don    Not Active    Pekin, IL 
+ Johnson, Don    14.5    ROLLING MEADOWS, IL 
+ Johnson, Don    Not Active     
+ Johnson, Don    14.7    Ottawa, IL 
+ Johnson, Don    Not Active    wayne, IL 
+ Johnson, Donald   Not Active    Aurora, Il 
+ Johnson, Donald   Not Active    Aurora, IL 
+ Johnson, Donald E.    N/H     Pekin, IL 
+ Johnson, Donald E.    Not Active    Pekin, IL 
+ Johnson, Donald   17.2    Pekin, IL 
+ Johnson, Donald   Not Active    Lisle, IL 
+ Johnson, Donald   Not Active    Libertyville, IL 
+ JOHNSON, DONNA    17.9     
+ Johnson, Donovan    12.9    Rosemont, IL 
+ Johnson, Dorothy    Not Active    Geneva, IL 
+ Johnson, Dottie   22.1    Mt. Vernon, IL 
+ Johnson, Doug   10.3    Rochelle, Il 
+ Johnson, Doug   Not Active    moline, IL 
+ Johnson, Doug   Not Active    Dublin, OH 
+ Johnson, Doug   8.7     Park Ridge, IL 
+ Johnson, Douglas w    6.4     Hanover Park, IL 
+ Johnson, Douglas    N/H     Hanover Park, IL 
+ Johnson, Drew   16.8    Winnetka, IL 
+ JOHNSON, DUANE    Not Active     
+ Johnson, Ed   Not Active    Wood Dale, IL 
+ Johnson, Ed   29.5    Darien, IL 
+ Johnson, Edward   Not Active    Wheaton, IL 
+ Johnson, Eilene   27.1    Sterling, IL 
+ Johnson, Elizabeth    Not Active    Bloomington, IL 
+ Johnson, Elizabeth    24.7    Winnetka, IL 
+ Johnson, Ellie    23.5    St. Charles, IL 
+ Johnson, Elmer    Not Active    Chicago, IL 
+ Johnson, Emile    34.4    Buffalo Grove, IL 
+ Johnson, Emily    Not Active     
+ Johnson, Eric   Not Active    VERNON HILLS, IL 
+ Johnson, Eric   13.4    Genoa, IL 
+ Johnson, Eric   Not Active    Hanover Park, IL 
+ Johnson, Eric   Not Active    Homewood, IL 
+ Johnson, Eric   N/H     Mt Prospect, IL 
+ Johnson, Eric G   14.1    Orland Park, IL 
+ Johnson, Erik   Not Active    Barrington, IL 
+ JOHNSON, Erik   N/H      
+ Johnson, Erik N.    N/H     Evanston, IL 
+ Johnson, Erik   Not Active    Barrington, IL 
+ Johnson, Ethan    N/H     Libertyville, IL 
+ Johnson, Evan   22.3    Decatur, IL 
+ Johnson, Everett A    Not Active    Huntley, IL
+ Johnson, Flo    Not Active    Galesburg, IL 
+ Johnson, Floyd    17.9    Glen Ellyn, IL 
+ JOHNSON, FRANCES    Not Active    Sun City, AZ 
+ Johnson, Frank    Not Active    McHenry, IL 
+ Johnson, Frank A    24.7    Oswego, IL 
+ Johnson, Fred   N/H     SOUTH HOLLAND, IL 
+ Johnson, Fred   29.7    Peoria, IL 
+Johnson, G   Not Active    Bloomington, IL 
+ Johnson, G. Pat   N/H     Tinley Park, IL 
+ Johnson, Garrett    N/H     Frankfort, IL 
+ JOHNSON, GARRETT    12.9    Winnetka, IL 
+ Johnson, Gary   Not Active    Streamwood, IL 
+ Johnson, Gary   Not Active    Bartlett, IL 
+ JOHNSON, Gary   10.7    Sandwich, IL 
+ Johnson, Gary   14.2    Geneva, IL 
+ Johnson, Gary   Not Active     
+ Johnson, Gary   7.2      
+ Johnson, Gary   Not Active    Bartlett, IL 
+ Johnson, Gary   Not Active    Darien, IL 
+ Johnson, Gayle    Not Active    Shorewood, IL 
+ Johnson, Gene   Not Active    Dundee, IL 
+ johnson, george c   Not Active    park ridge, IL 
+ Johnson, George   21.9    Princeton, IL 
+ Johnson, Geri   Not Active    Bartlett, IL 
+ Johnson, Gerry    Not Active    Champaign, IL 
+ Johnson, Gigi   N/H     Winnetka, IL 
+ Johnson, Gilbert O    22.6    Chicago, IL 
+ Johnson, Glenn    Not Active    Hobart, IN 
+ Johnson, Glenn    Not Active    Plano, IL 
+ Johnson, Gloria   Not Active    Barrington, IL 
+ Johnson, Gloria   18.9     
+ Johnson, Grace    N/H     Western Springs, IL 
+ Johnson, Grant    Not Active    Darien, IL 
+ Johnson, Greg W   9.8     Sugar Grove, IL 
+ Johnson, Greg P.    Not Active    Yorkville, IL 
+ Johnson, Greg   N/H     Rockford, IL 
+ Johnson, Greg   Not Active    lake forest, IL 
+ Johnson, Greg   Not Active    Yorkville, IL 
+ Johnson, Greg   Not Active     
+ Johnson, Greg   7.5     Decatur, IL 
+ Johnson, Greg   Not Active    Rockford, IL 
+ Johnson, Greg   9.3     Geneva, IL 
+ Johnson, Greg   15.3    Rockford, IL 
+ Johnson, Gregg A    Not Active    Burr Ridge, IL 
+ Johnson, Gregory    Not Active    Clarendon Hills, IL 
+ Johnson, Gregory P    Not Active    Downers Grove, IL 
+ johnson, gregory    N/H     Sugar Grove, IL
+ Johnson, J V    8.2     Lincolnshire, IL 
+ Johnson, Jack T.    N/H     Winnetka, IL 
+ Johnson, Jack   N/H      
+ JOHNSON, Jacki    12.2    Sandwich, IL 
+ Johnson, Jackie   35.9     
+ Johnson, Jackie   38.9    Highwood, IL 
+ Johnson, Jackie   Not Active    Kewanee, IL 
+ JOHNSON, Jacob    N/H      
+ Johnson, James A    31    Glenview, IL 
+ Johnson, James p    20.2    Wonder Lake, IL 
+ Johnson, James M    19.9    Winnetka, IL 
+ Johnson, James R    Not Active    Hampshire, IL 
+ Johnson, James    Not Active    Burr Ridge, IL 
+ Johnson, James    17.6    Champaign, IL 
+ Johnson, James    Not Active    Chicago, IL 
+ Johnson, James    9.8      
+ Johnson, James    29.9    Forest Park, IL 
+ Johnson, James    27.3    North Barrington, IL 
+ Johnson Jr, James A   2.7     Frankfort, IL 
+ Johnson, Jamie    N/H     Naperville, IL 
+ Johnson, Jamy   7.9     Buckingham, IL 
+ Johnson, Jan    22.9    Downers Grove, IL 
+ Johnson, Jane   21.6    Inverness, IL 
+ Johnson, Janet    Not Active    Pekin, IL 
+ Johnson, Janet    36.1    Pekin, IL 
+ Johnson, Jared A    2.2     Rochelle, IL 
+ Johnson, Jared M.   2.4     Chillicothe, IL 
+ Johnson, Jason    Not Active    Paxton, IL 
+ Johnson, Jason L    Not Active    Oak Park, IL 
+ Johnson, Jay    10.4    SPRINGFIELD, IL 
+ Johnson, Jay    N/H     Medinah, IL 
+ Johnson, Jay    Not Active    Medinah, IL 
+ Johnson, Jay    19.6    North Barrington, IL 
+ johnson, Jay    N/H     Oak Park, Il 
+ Johnson, Jay    Not Active    Downers Grove, IL 
+ Johnson, Jayne C    Not Active    Lake Forest, IL 
+ Johnson, Jean   29    Urbana, IL 
+ Johnson, Jean   Not Active    Antioch, IL 
+ Johnson, Jeanne   Not Active     
+ Johnson, Jeanne   Not Active    Bloomington, IL 
+ Johnson, Jeanne   43.2    Glen Ellyn, IL 
+ Johnson, Jeff   12    Yorkville, IL 
+ JOHNSON, JEFF   4.2     Mt. Morris, IL 
+ Johnson, Jeff   Not Active    Plano, IL 
+ Johnson, Jeff   Not Active     
+ Johnson, Jeff   1.8     Winnetka, IL 
+ Johnson, Jeff   Not Active    Pearl City, IL 
+ Johnson, Jeff   Not Active    champaign, IL 
+ Johnson, Jeff   N/H     Yorkville, IL 
+ Johnson, Jeff   Not Active    Mt. Morris, IL 
+ Johnson, Jeff   Not Active    Wheaton, IL 
+ Johnson, Jeff   24    Sycamore, IL 
+ Johnson, Jeff   Not Active    Long Grove, IL 
+ JOHNSON, Jeff   N/H      
+ Johnson, Jeff   Not Active    PEKIN, IL 
+ Johnson, Jeffrey    Not Active    Wheaton, IL 
+ Johnson, Jeffrey    5.1     Crystal Lake, IL 
+ Johnson, Jennifer   35.1    Bloomington, IL 
+ Johnson, Jennifer   N/H      
+ Johnson, Jerald   Not Active    Sandwich, IL 
+ Johnson, Jeremy   Not Active    Loda, IL 
+ Johnson, Jeremy   5.2     Chicago, IL 
+ Johnson, Jerrie   51.2    River Forest, IL 
+ Johnson, Jerry    16.8    Clinton, IL 
+ Johnson, Jerry    Not Active    Glenview, IL 
+ Johnson, Jerry    12.9     
+ Johnson, Jerry    Not Active    Glenview, IL 
+ Johnson, Jerry    Not Active    Chicago Heights, IL 
+ Johnson, Jerry    Not Active    Springfield, IL 
+ Johnson, Jerry L    10.9    Bourbonnais, IL 
+ Johnson, Jerry    Not Active    Lemont, IL 
+ Johnson, Jerry    N/H     Chicago, IL 
+ Johnson, Jerry l    1.3     Springfield, IL 
+ Johnson, Jill   22.3    Galesburg, IL 
+ Johnson, Jim    N/H     Woodridge, IL 
+ Johnson, Jim    Not Active     
+ Johnson, Jim    Not Active    Pekin, IL 
+ Johnson, Jr., Jim   5.8     Darien, IL 
+ Johnson, Jim    Not Active    Geneva, IL 
+ Johnson, Jim    Not Active    Chicago, IL 
+ Johnson, Jim    15.7    Shorewood, IL 
+ Johnson, Jim    N/H     Sandwich, IL 
+ Johnson, Jim    12.5    Huntley, IL 
+ Johnson, Jim    Not Active    Springfield, IL 
+ Johnson, Jim    17.9    Piper City, IL 
+ Johnson, Jim    Not Active    Cary, IL 
+ Johnson, Jim    9.5     Frankfort, IL 
+ Johnson, Sr., Jim   13.3    Tinley Park, IL 
+ Johnson, Jimmie   8.6      
+ Johnson, Joann    15.4    Cary, IL 
+ Johnson, Jodi   22.9    Dekalb, IL 
+ Johnson, Joe    Not Active    Winnetka, IL 
+ Johnson, Joel   Not Active    Winnetka, IL 
+ Johnson, Joel   Not Active    Waterman, IL 
+ Johnson, Johanna    29.9    Oswego, IL 
+ Johnson, John   24.4     
+ Johnson, John F.    Not Active    Lake Forest, IL 
+ Johnson, John   22.9     
+ Johnson, John   Not Active    Chicago, IL 
+ Johnson, John R.    Not Active    Carpentersville, IL 
+ Johnson, John   N/H     Chicago, IL 
+ JOHNSON, JOHN   Not Active     
+ Johnson, John   Not Active    Chicago, IL 
+ Johnson, John   1.5     Glencoe, IL 
+ Johnson, Johnny   12.6     
+ Johnson, Jr., Johnny    7.5      
+ Johnson, Jon    6.5      
+ Johnson, Jon    Not Active    Joliet, IL 
+ JOHNSON, JOSEPH   N/H     NAPERVILLE, IL 
+ Johnson, Joseph   18.9    Glen Ellyn, IL 
+ Johnson, Joseph   Not Active    Joliet, IL 
+ Johnson, Joseph   Not Active    Lake Forest, IL 
+ Johnson, Josh   14.2    North Barrington, IL 
+ Johnson, Josh   4.4     Rochelle, Il 
+ Johnson, Joshua   Not Active    Lockport, IL 
+ Johnson, Joshua A   Not Active    Mt. Prospect, IL 
+ Johnson, Joshua A   Not Active    Mt. Prospect, IL 
+ Johnson, Judith   25.5    Lake Bluff, IL 
+ Johnson, Judy E   Not Active    Westmont, IL 
+ Johnson, Judy   57.3    Waverly, IL 
+ Johnson, Judy   Not Active    Burr Ridge, IL 
+ Johnson, Judy L   Not Active    Orland Park, IL 
+ Johnson, Julie    Not Active    Northfield, IL 
+ Johnson, Justin T   6.4     Glenview, IL 
+ Johnson , Justin    4.2     Glenview, IL 
+Johnson, Hal   Not Active    Sun City, AZ 
+ Johnson, Hal    12    Franklin Park, IL 
+ Johnson, Harry    Not Active    Prospect Heights, IL 
+ Johnson, Harry    Not Active    Park Ridge, IL 
+ Johnson, Harvey   32.3    Schaumburg, IL 
+ Johnson, Heather    Not Active    Inverness, IL 
+ Johnson, Heide    Not Active    St. Charles, IL 
+ Johnson, Henry    23.1    Flossmoor, IL 
+ Johnson, Herb   17.1    Inverness, IL 
+ Johnson, Herb   14.4    North Barrington, IL 
+ Johnson, Howard   11.6    Grant Park, IL 
+Johnson, Karen   Not Active     
+ Johnson, Karen    Not Active    Geneseo, IL 
+ Johnson, Karl   N/H     Princeton, IL 
+ Johnson, Karl   Not Active    Princeton, IL 
+ Johnson, Kate   3     Sleepy Hollow, IL 
+ Johnson, Kathy    28.9    Roscoe, IL 
+ Johnson, Kathy    19    Peoria, IL 
+ Johnson, Kathy    31.1    Glen Ellyn, IL 
+ Johnson, Kathy W    39.5    Princeton, IL 
+ JOHNSON, KATIE    N/H      
+ Johnson, Kay    Not Active    Crete, IL 
+ Johnson, Keith    Not Active    Southport, NC 
+ Johnson, Keith    20.4    Peoria, IL 
+ Johnson, Keith    22.4    Chicago, IL 
+ Johnson, Keith    Not Active    Elgin, IL 
+ Johnson, Keith A    14    Naperville, IL 
+ Johnson, Keith    Not Active    Cary, IL 
+ Johnson, Keith    6.1     Westmont, IL 
+ JOHNSON, KELLY    Not Active     
+ Johnson, Ken    18.7    St. Charles, IL 
+ Johnson, Ken    16.6    Northbrook, IL 
+ Johnson, Ken    16.5    Northbrook, IL 
+ Johnson, Ken    17.8    St. Charles, IL 
+ Johnson, Ken    Not Active    Crystal Lake, IL 
+ Johnson, Ken A    Not Active    Genoa, IL 
+ Johnson, Ken    Not Active    St Anne, IL 
+ Johnson, Ken H.   Not Active    Libertyville, IL 
+ Johnson, Ken    Not Active    ottawa, il 
+ JOHNSON, KEN    26.6    ROCHELLE IL 61068, 04 
+ Johnson, Kendall    N/H     Newton, IL 
+ Johnson, Kenneth    N/H      
+ Johnson, Kenneth    N/H     lake forest, IL 
+ Johnson, Kenneth    11.7    Barrington, IL 
+ Johnson, Kenneth    Not Active    Chicago, IL 
+ Johnson, Kent   N/H      
+ Johnson, Kent L.    7.8     Arlington Heights, IL 
+ Johnson, Kerri    26.6    Naperville, IL 
+ Johnson, Kevin    Not Active    Naperville, IL 
+ Johnson, Kevin    Not Active    Farmington, IL 
+ Johnson, Kevin    14.1    Glenview, IL 
+ Johnson, Kevin    Not Active    Glen Ellyn, IL 
+ Johnson, Kevin    Not Active    Saint John, IN 
+ Johnson, Kevin D    Not Active    Streamwood, IL 
+ Johnson, Kevin    Not Active    Dyer, IN 
+ johnson, kevin    N/H     glenview, IL 
+ Johnson, Kevin    N/H     Elmwood Park, IL 
+ Johnson, Kip    Not Active    Hawthorn Woods, IL 
+ Johnson, Kirk   13.7    Lake Forest, IL 
+ Johnson, Kristi   20.8     
+ Johnson, Krys   13.2    Palos Heights, IL 
+ Johnson, Kurt   18.3    Roscoe, IL 
+ Johnson, Kurt D   Not Active    Yorkville, IL 
+ Johnson, Kyle   N/H     Mokena, IL 
+ Johnson, Kyle   Not Active     
+ Johnson, Kyle   Not Active    Watseka, IL 
+ Johnson, Kyle   Not Active    Crystal Lake, IL 
+ Johnson, L    29.3    Rockford, IL 
+ Johnson, Lamar    22.9    Oak Park, IL 
+ Johnson, Lance    Not Active    Mundelein, IL 
+ Johnson, Lance C.   Not Active    Aurora, IL 
+ Johnson, Lance    14.2    Zion, IL 
+ Johnson, Larry    Not Active    Batavia, IL 
+ Johnson, Larry E    20.5    NORMAL, IL 
+ Johnson, Larry    10    Wilmette, IL 
+ Johnson, Larry    Not Active    Princeton, IL 
+ Johnson, Larry R.   Not Active    Oswego, IL 
+ Johnson, Larry L    14.8    rockford, IL 
+ Johnson, Larry    16    Jacksonville, IL 
+ Johnson, Larry    Not Active    Palatine, Il 
+ Johnson, Larry D    17.2    Mundelein, IL 
+ JOHNSON, Larry    N/H      
+ Johnson, Larry    19.9    Glen Ellyn, IL 
+ Johnson, Larry    21.6    Orland Park, IL 
+ Johnson, Laura    22.5    Inverness, IL 
+ Johnson, Laura    N/H     Orland Park, IL 
+ Johnson, Laura    Not Active    Inverness, IL 
+ Johnson, Laura    17.9    Lake Bluff, IL 
+ Johnson, Laurel   N/H      
+ Johnson, Laurie   Not Active    North Barrington, IL 
+ Johnson, Lee    Not Active    Crystal Lake, IL 
+ Johnson, Len    13.2    Waukegan, IL 
+ Johnson, Lenita   21.7    Flossmoor, IL 
+ johnson, leslie t   4     riverside, il 
+ Johnson, Leslie   Not Active    Highland Park, IL 
+ Johnson, Lex    Not Active    Joliet, IL 
+ Johnson, Lil    N/H      
+ JOHNSON, Lila M   Not Active    Waterman, IL 
+ Johnson, Lillian    N/H     Lake Forest, IL 
+ Johnson, Linda    30.6    Bartlett, IL 
+ Johnson, Linda    Not Active    Round Lake, IL 
+ Johnson, Liz    N/H      
+ Johnson, Liz    31.6    Park Ridge, IL 
+ Johnson, Liz    Not Active    Golf, IL 
+ Johnson, Lloyd    Not Active    Naperville, IL 
+ Johnson, Lloyd    N/H     Morris, IL 
+ Johnson, Lois   35.4    Rockford, IL 
+ Johnson, Lucy   Not Active     
+ Johnson, Luke   Not Active    Rockford, IL 
+ Johnson, Luke   N/H     Lake Forest, IL 
+ Johnson, Luke   N/H     Lake Forest, IL 
+ Johnson, Lynn   23.7    Batavia, IL 
+ Johnson, M    Not Active    Park Ridge, IL 
+ Johnson, Marc   Not Active    Bartlett, IL 
+ Johnson, Marcy    19.8     
+ Johnson, Margaret F   24.8    Bloomington, IL 
+ Johnson, Marge    Not Active    Wataga, IL 
+ Johnson, Marge    N/H     Wataga, IL 
+ Johnson, Marianne   36.8    Bloomington, IL 
+ Johnson, Marie    34.9    Olympia Flds, IL 
+ Johnson, Marilyn    Not Active    Oak Brook, IL 
+ Johnson, Marilyn    Not Active    Wilmette, IL 
+ Johnson, Mark   Not Active    Champaign, IL 
+ Johnson, Mark   Not Active    Chicago, IL 
+ Johnson, Mark   Not Active    NASHVILLE, TN 
+ Johnson, Mark   Not Active    Gurnee, IL 
+ Johnson, Mark W   0.4     Arlington Heights, IL 
+ Johnson, Mark   Not Active    Herscher, IL 
+ Johnson, Mark E   13.7    Sleepy Hollow, IL 
+ Johnson, Mark   N/H     Tinley Park, IL 
+ Johnson, Mark   N/H      
+ Johnson, Mark   10.7    Minooka, IL 
+ Johnson, Martin   9.3     Glen Ellyn, IL 
+ Johnson, Mary   N/H      
+ Johnson, Mary K   18.3    Oswego, IL 
+ Johnson, Mary   Not Active    Hinsdale, IL 
+ Johnson, Mary Jane    24    West Chicago, IL 
+ Johnson, Mary Joan    28.6    Naperville, IL 
+ Johnson, Matt   N/H     Winnetka, IL 
+ Johnson, Matt   N/H     Evanston, IL 
+ Johnson, Matt   10.4    Homewood, IL 
+ Johnson, Matt   8.5     Bloomington, IL 
+ Johnson, Matthew    Not Active    Libertyville, IL 
+ JOHNSON, MATTHEW    Not Active    CHICAGO, IL 
+ Johnson, Matthew C.   Not Active    Harwood Heights, IL 
+ Johnson, Matthew    N/H      
+ Johnson, Maurie   Not Active    Rockford, IL 
+ JOHNSON, MICAH    Not Active    Medinah, IL 
+ Johnson, Micah    N/H     Medinah, IL 
+ Johnson, Michael D.   Not Active    Harwood Heights, IL 
+ Johnson, Michael    Not Active    Sprignfield, IL 
+ Johnson, Michael    Not Active    Bloomington, IL 
+ Johnson, Michael    21.2    Long Grove, IL 
+ Johnson, Michael    N/H     Barrington, IL 
+ Johnson, Michael F    Not Active    Lake Forest, IL 
+ Johnson, Michael G.   19    Chicago, IL 
+ JOHNSON, Michael    N/H     MALTA, IL 
+ Johnson, Michael    16.1    Geneva, IL 
+ Johnson, Michael    11.5    Cary, IL 
+ Johnson, Michelle   N/H     Wheaton, IL 
+ Johnson, Mickey   6.6     Dekalb, IL 
+ Johnson, Mike   Not Active    Urbana, IL 
+ Johnson, Mike   6.7     Morris, IL 
+ Johnson, Mike   17.9    HOOPESTON, IL 
+ Johnson, Mike   20.2    Mokena, IL 
+ Johnson, Mike K   Not Active    elgin, IL 
+ Johnson, Mike   Not Active    Springfield, IL 
+ Johnson, Mike   Not Active    Jacksonville, FL 
+ Johnson, Mike   Not Active    Crest Hill, IL 
+ Johnson, Mike   N/H     Pleasant Prairie, WI 
+ Johnson, Mike   N/H     Palos Park, IL 
+ Johnson, Mike   22.5    Loda, IL 
+ Johnson, Mike   18.8    Cary, IL 
+ Johnson, Miles    Not Active    Downers Grove, IL 
+ Johnson, Milt   Not Active    West Chicago, IL 
+ Johnson, Milton   22    Geneva, IL 
+ Johnson, Mitch J    Not Active    Downers Grove, IL 
+ Johnson, Mitchell L   15.6    Calumet City, IL 
+ Johnson, Molly    Not Active    Chicago, IL 
+ Johnson, Myra   31.3    Bloomington, IL 
+ Johnson, Nadine   N/H     Joliet, IL 
+ Johnson, Nancy    Not Active    Hawthorn Woods, IL 
+ Johnson, Natalie    N/H     Nashville, IL 
+ Johnson, Nate   N/H     Sheffield, IL 
+ Johnson, Neil H   6.9     CLARENDON HILLS, IL 
+ Johnson, Nicholas   Not Active    DeKalb, IL 
+ Johnson, Nicholas   12.9    DeKalb, IL 
+ Johnson, Nola   Not Active    Bloomington, IL 
+ Johnson, Norah    29.7    Willowbrook, IL 
+ Johnson, Norm T   Not Active    Round Lake, IL 
+ Johnson, Norm M   Not Active    Northfield, IL 
+ Johnson, Norm   N/H     Peoria, Il 
+ Johnson, Norman   22.8    Peoria, IL 
+Johnson, Olivia    19    Kankakee, IL 
+ Johnson, Olivia   15.7    Kankakee, IL 
+ Johnson, Olivia   N/H     Barrington, IL 
+ Johnson, Oscar    Not Active    Chicago, IL 
+ Johnson, Oscar D    18.7     
+ Johnson, Pam    37.6    Glen Ellyn, IL 
+ Johnson, Pam    45.8     
+ Johnson, Pam (9)    18.9    Chicago, IL 
+ Johnson, Pam(18)    35.9    Chicago, IL 
+ Johnson, Pamela   Not Active    Chicago, IL 
+ Johnson, Pat    N/H     Homewood, IL 
+ Johnson, Patricia   Not Active    Algonquin, IL 
+ Johnson, Patricia   34.5    Elmhurst, IL 
+ Johnson, Patrick    5.2     Chicago, IL 
+ Johnson, Patrick    N/H     Aurora, IL 
+ Johnson, Patrick    7.5     Naperville, IL 
+ Johnson, Pattie   29    North Barrington, IL 
+ Johnson, Pattie   Not Active    Frankfort, IL 
+ Johnson, Paul   N/H     Glenview, IL 
+ Johnson, Paul S   6.1     Lake Forest, IL 
+ Johnson, Paul   8.3     Winnetka, IL 
+ Johnson, Paul   Not Active    Knoxville, IL 
+ Johnson, Paul   12.9    Frankfort, IL 
+ Johnson, Paul   Not Active    Prairie Grove, IL 
+ Johnson, Paula Q    21    North Barrington, IL 
+ Johnson, Paula    Not Active    Champaign, IL 
+ Johnson, Peggy    Not Active    Taylorville, IL 
+ Johnson, Peggy    Not Active     
+ Johnson, Peggy    Not Active    Sandwich, IL 
+ Johnson, Perry R    0.7     Lake Forest, IL 
+ Johnson, Perry    Not Active    Lake Forest, il 
+ Johnson, Perry    23    West Chicago, IL 
+ Johnson, Perry    Not Active    Lake In The Hills, IL 
+ Johnson, Pete   N/H     Downers Grove, IL 
+ Johnson, Peter    Not Active    Libertyville, IL 
+ Johnson, Peter    +0.1    Cary, IL 
+ Johnson, Peter    Not Active    Libertyville, IL 
+ Johnson, Peter    Not Active    Wyoming, IL 
+ Johnson, Phil   11.1    Naperville, IL 
+ Johnson, Phil   Not Active    naperville, IL 
+ Johnson, Philip   Not Active    Naperville, IL 
+ Johnson, Philip   Not Active    Oak Brook, IL 
+ Johnson, Phillip    5.2     River Forest, IL 
+ Johnson, Phyllis    Not Active    Princeton, IL 
+ Johnson, Pual   Not Active     
+ Johnson, R Craig    N/H      
+ Johnson, Rachael    20.1    LaGrange Park, IL 
+ Johnson, Ralph    Not Active    Sycamore, IL 
+ Johnson, Ralph    Not Active    Bloomington, IL 
+ Johnson, Randall    3.4      
+ Johnson, Randee   32.1    Highland Park, IL 
+ Johnson, Randy    Not Active    Peotone, IL 
+ Johnson, Randy    Not Active    Springfield, IL 
+ Johnson, Randy    17.7    Springfield, IL 
+ Johnson, Ray    Not Active    Rockford, IL 
+ Johnson, Ray    3.3     Northbrook, IL 
+ Johnson, Regina   28.5    Naperville, IL 
+ Johnson, Reginald   19.2    South Holland, IL 
+ Johnson, Ren    7.5     Bartlett, IL 
+ Johnson, Ren    Not Active    Bartlett, IL 
+ Johnson, Rex    13.4    Crystal Lake, IL 
+ Johnson, Rex r    11.1    St John, IN 
+ Johnson, Rhonda   12.2    Beach Park, IL 
+ Johnson, Rich   Not Active    Hoffman Estates, IL 
+ Johnson, Richard    21.1    Western Springs, IL 
+ Johnson, Richard    Not Active    Woodstock, IL 
+ Johnson, Richard    Not Active    Sandwich, IL 
+ Johnson, Richard    Not Active    Glen Ellyn, IL 
+ Johnson, Richard W.   3.8     Glen Ellyn, IL 
+ Johnson, Richard    Not Active    Elk Grove, IL 
+ Johnson, Richard    20.4    Worth, IL 
+ Johnson, Richard    Not Active    Lombard, IL 
+ Johnson, Richard    22.5    Inverness, IL 
+ Johnson, Rick   Not Active    Clinton, IA 
+ Johnson, Rick Ri    14.6    Arlington Heights, IL 
+ Johnson, Rick   N/H      
+ Johnson, Rick   6.5     Kewanee, IL 
+ Johnson, Rick   N/H     Bloomington, IL 
+ Johnson, Rick   6     Elmhurst, IL 
+ Johnson, Rick F   12.8    Des Plaines, IL 
+ Johnson, Rita   Not Active    Woodstock, IL 
+ Johnson, Rob    Not Active    Indian Head Pk, IL 
+ Johnson, Rob    11.5    Hinsdale, IL 
+ Johnson, Rob    13.8    Chillicothe, Il 
+ Johnson, Rob    10.7    Barrington, IL 
+ Johnson, Rob    12.1    Crystal Lake, IL 
+ Johnson, Robb   Not Active    Phoenix, AZ 
+ JOHNSON, Robert   14.2     
+ Johnson, Robert   10.3    Golf, IL 
+ Johnson, Robert   16.1    Tower Lakes, IL 
+ Johnson, Robert   Not Active    Venice, FL 
+ Johnson, Robert J   Not Active    Oak Lawn, IL 
+ Johnson, Robert   Not Active    Oswego, IL 
+ Johnson, Robert   Not Active    North Barrington, IL 
+ Johnson, Robert   Not Active    Crete, IL 
+ Johnson, Robert   29.8    Downers Grove, IL 
+ Johnson, Robert   N/H      
+ Johnson, Robert   20.8    Clarendon Hills, IL 
+ Johnson, Robert   15.5    Palos Heights, IL 
+ Johnson, Robert E   Not Active    Lake Zurich, IL 
+ Johnson, Robert J   14.1    Pekin, IL 
+ Johnson, Robert   10.3    Sandwich, IL 
+ Johnson, Robert   Not Active    Ottawa, IL 
+ Johnson, Robert   Not Active    Chicago, IL 
+ Johnson, Robert   7     Kewanee, IL 
+ Johnson, Robert   Not Active    Oak Brook, IL 
+ Johnson, Robert   Not Active    Glen Ellyn, IL 
+ Johnson, Robert   N/H      
+ Johnson, Robert   Not Active    McHenry, IL 
+ Johnson, Roger    12.9    Bloomington, IL 
+ Johnson, Roger    Not Active    Barrington, IL 
+ Johnson, Roger    Not Active    Grayslake, IL 
+ Johnson, Jr, Roland   Not Active    FORT WORTH, TX 
+ Johnson, Ron    Not Active    Mt. Prospect, IL 
+ Johnson, Ron    Not Active    Naperville, IL 
+ Johnson, Ron    Not Active     
+ Johnson, Ron    Not Active    Sycamore, IL 
+ Johnson, Ron    Not Active    Joliet, IL 
+ Johnson, Ron    Not Active    Mt. Zion, IL 
+ Johnson, Ron    Not Active    Oak Lawn, IL 
+ Johnson, Ron    26.6    Naperville, IL 
+ Johnson, Ronald   Not Active    Joliet, IL 
+ Johnson, Ronalde    Not Active    Champaign, IL 
+ Johnson, Ronalde    1.7     Champaign, IL 
+ Johnson, Ross   N/H     Washington, IL 
+ Johnson, Roy    N/H     Ivanhoe, IL 
+ Johnson, Royal    Not Active    West Chicago, IL 
+ Johnson, Rune   Not Active    St Charles, IL 
+ Johnson, Russell    21.4    Wheaton, IL 
+ Johnson, Rusty    Not Active    Decatur, IL 
+ Johnson, Ruth   N/H     Wilmette, Il 
+ Johnson, Ruth Ann   Not Active    Galesburg, IL 
+ Johnson, Ryan   10.8    Channahon, IL 
+ Johnson, Ryan D.    Not Active    Chicago, IL 
+ Johnson, Ryan   N/H     Des Plaines, IL 
+ Johnson, Ryan   15.2    Chicago, IL 
+ Johnson, Ryan   N/H     New Lenox, IL 
+ Johnson, Sally    Not Active    Mt. Morris, IL 
+ Johnson, Sally J    25.1    Pekin, IL 
+ Johnson, Sally    N/H      
+ Johnson, Sam    Not Active    Sleepy Hollow, IL 
+ Johnson, Samuel   N/H     Sleepy Hollow, IL 
+ JOHNSON, Sandi    27.2     
+ Johnson, Sandra   N/H      
+ Johnson, Sandy    N/H     Naperville, IL 
+ Johnson, Sandy    N/H     Winnetka, IL 
+ Johnson, Sanna    N/H     Philadelphia, PA 
+ Johnson, Sara   21.6     
+ Johnson, Sarah    Not Active    Mt Zion, IL 
+ Johnson, Scott    6.7     URBANA, IL 
+ Johnson, Scott J    3.5     Watseka, IL 
+ Johnson, Scott w    Not Active    Lemont, IL 
+ Johnson, Scott    Not Active    Newton, IL 
+ Johnson, Scott    Not Active    chicago, IL 
+ Johnson, Scott    Not Active    Stockton, IL 
+ Johnson, Scott R    8.1     Spring Grove, IL 
+ Johnson, Scott    Not Active    Bloomingdale, IL 
+ Johnson, Scott L    Not Active    Vernon Hills, IL 
+ Johnson, Scott R    Not Active    Belvidere, Il 
+ Johnson, Scott F    11.3    Wilmette, IL 
+ Johnson, Scott    Not Active    Batavia, IL 
+ Johnson, Scott A    Not Active    Wheaton, IL 
+ Johnson, Shari    38.2    Chicago, IL 
+ Johnson, Sharon   Not Active    Pearl City, IL 
+ Johnson, Sheila   N/H     Oswego, IL 
+ Johnson, Sheldon    Not Active    Dundee, IL 
+ Johnson, Shelia   18.5    Oswego, IL 
+ Johnson, Stacy    17.8    Hinsdale, IL 
+ Johnson, Stefan   +2.3    Williams Bay, WI 
+ Johnson, Stefan   Not Active    Williams Bay, WI 
+ Johnson, Stephanie    24.1     
+ Johnson, Stephen    13.7    Palatine, IL 
+ Johnson, Stephen E.   Not Active    morton, IL 
+ Johnson, Steve    Not Active    Champaign, IL 
+ Johnson, Steve b    Not Active    Antioch, IL 
+ Johnson, Steve    12.8    Napervile, IL 
+ Johnson, Steve    Not Active    Kildeer, IL 
+ Johnson, Steve    Not Active    Champaign, IL 
+ JOHNSON , STEVE   17.3     
+ Johnson, Steve    N/H     Oak Park, IL 
+ Johnson, Steve    4.1     beverly shores, IN 
+ Johnson, Steven   N/H     Antioch, IL 
+ Johnson, Steven   Not Active    Rockford, IL 
+ Johnson, Stina    27.7    Crystal Lake, IL 
+ Johnson, Sue    Not Active    Pekin, IL 
+ Johnson, Sue    Not Active    Ocala, FL 
+ Johnson, Sue    Not Active    Barrington, IL 
+ Johnson, Sue    Not Active    Montgomery, IL 
+ Johnson, Tammy    19.4    Morris, IL 
+ JOHNSON, Tammy    Not Active     
+ Johnson, Teresa   Not Active    Naperville, IL 
+ Johnson, Teresa   N/H     Morris, IL 
+ Johnson, Terrill    13    Silvis, IL 
+ Johnson, Thad   Not Active    Winnetka, IL 
+ Johnson, Theodore   N/H     Bellwood, IL 
+ Johnson, Thomas L.    Not Active    Bourbonnais, IL 
+ Johnson, Thomas F.    35.7    Champaign, IL 
+ JOHNSON, THOMAS   Not Active    Barrington Hills, IL 
+ Johnson, Thomas   N/H     Evanston, IL 
+ Johnson, Thomas   Not Active    Rochelle , Il 
+ Johnson, Tim    18.6    Naperville, IL 
+ Johnson, Tim    17.5    Yorkville, IL 
+ Johnson, Tim    N/H     Chicago, IL 
+ Johnson, Tim    Not Active    Flossmoor, IL 
+ Johnson, Tim    Not Active     
+ Johnson, Tim    Not Active    South Beloit, IL 
+ JOHNSON, Tim    Not Active     
+ Johnson, Tim    4.6     New Lenox, IL 
+ Johnson, Tim    4.9     Bloomington, IL 
+ Johnson, Timmy    Not Active     
+ JOHNSON, Timothy    Not Active     
+ JOHNSON, TIMOTHY T    14.8    CHICAGO, IL 
+ JOHNSON, TIMOTHY    Not Active    Naperville, IL 
+ Johnson, Timothy    Not Active    Dekalb, IL 
+ Johnson, Toby   N/H      
+ JOHNSON, TODD   N/H     ALGONQUIN, IL 
+ Johnson, Todd A   10.9    Glen Ellyn, IL 
+ Johnson, Todd   Not Active    Algonquin, IL 
+ Johnson, Todd   Not Active    Elburn, IL 
+ Johnson, Todd   Not Active    Bartlett, IL 
+ Johnson, Tom    25.7    Rockford, IL 
+ Johnson, Tom    10.5    Evanston, IL 
+ Johnson, Tom    13.8    Shorewood, IL 
+ Johnson, Tom    Not Active    Frankfort, IL 
+ Johnson, Tom    Not Active    Morris, IL 
+ Johnson, Tom    Not Active    Chicago, IL 
+ Johnson, Tom    N/H     , ** 
+ Johnson, Tom    15.4    Elgin, IL 
+ Johnson, Tom    10.2    Frankfort, IL 
+ Johnson, TR   24.1    Chicago, IL 
+ Johnson, Trace    Not Active    Chicago, IL 
+ Johnson, Tracy    12.3    Kenney, IL 
+ Johnson, Trent    N/H     Rockford, IL 
+ Johnson, Tricia   N/H     Barrington, Il 
+ Johnson, Tyler    N/H     Washington, IL 
+ Johnson, Tyler    Not Active    Morris, IL 
+Johnson, Val   Not Active    Pekin, IL 
+ Johnson, Vance    23.6    Highland Park, IL 
+ JOHNSON, Vernon   32.2     
+ Johnson, Vicki    Not Active    Galesburg, IL 
+ Johnson, Victor   13.2    LaGrange Park, IL 
+ Johnson, Virgil   Not Active    Bloomington, IL 
+ Johnson, Walter   Not Active    Northbrook, IL 
+ Johnson, Walter   Not Active     
+ Johnson, Ward   8.1     willowbrook, IL 
+ Johnson, Warren   12.6    Elmhurst, IL 
+ Johnson, Wayne    N/H     La Grange, Il 
+ Johnson, Wayne    N/H     Palatine, IL 
+ Johnson, Wes    Not Active    BLOOMINGTON, IL 
+ Johnson III, Wes S    Not Active    Normal, iL 
+ Johnson, Wes    Not Active    Sycamore, IL 
+ Johnson, Wes    Not Active    Bloomington, IL 
+ Johnson, Will   Not Active    Champaign, IL 
+ Johnson, Will   12.9    Lake Forest, IL 
+ Johnson, Will   N/H     Libertyville, IL 
+ Johnson, Will   Not Active    Cambridge, MA 
+ Johnson, Willard s    Not Active    Chicago, IL 
+ Johnson, William    Not Active    Lake Forest, IL 
+ Johnson, William    19.2    Northfield, IL 
+ Johnson, William J    Not Active    Northbrook, IL 
+ Johnson, William    16.6    Lake Bluff, IL 
+ Johnson, William J    13.3    Green Oaks, IL 
+ Johnson, William    N/H      
+ Johnson, William G.   N/H     Gary, IN 
