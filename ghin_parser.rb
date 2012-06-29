@@ -28,7 +28,11 @@ CSV.open('ghin_golfer_data.csv', 'wb') do |csv|
 
     # the first line is the name and club.
     # we may try to parse out later
-    name_club = golfer
+    name_match = /(.+)\s\s/.match golfer
+    name = name_match ? name_match.captures.first : nil
+
+    club_match = /\s\s(.+)/.match golfer
+    club = club_match ? club_match.captures.first : nil
 
     # get the next line, which is association and handicap
     assn_and_handicap = golf_data_file.gets
@@ -45,13 +49,13 @@ CSV.open('ghin_golfer_data.csv', 'wb') do |csv|
     effective_date = effective_date_match ? effective_date_match.captures.first : nil
 
 
-    if name_club
+    if name
       # count the match
       match_count += 1
       # write to the screen
-      puts "Matched name and club: #{name_club}, Association: #{association},  Handicap: #{handicap}, Effective Date: #{effective_date}"
+      puts "Matched name:  #{name}, Club: #{club}, Association: #{association},  Handicap: #{handicap}, Effective Date: #{effective_date}"
       # write to the CSV File
-      csv << [name_club, association, handicap, effective_date]
+      csv << [name, club, association, handicap, effective_date]
 
     else
       # count the no_match
